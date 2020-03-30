@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="description" content="ArcGIS JS v4, Calcite Maps and Bootstrap Example">
+    <title>Javascript viewer</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://esri.github.io/calcite-maps/dist/css/calcite-maps-bootstrap.min-v0.10.css">
+
+    <link rel="stylesheet" href="https://esri.github.io/calcite-maps/dist/css/calcite-maps-arcgis-4.x.min-v0.10.css">
+
+    <link rel="stylesheet" href="https://js.arcgis.com/4.13/esri/css/main.css">
+    <style>
+        html,
+    body,
+    #viewDiv {
+      padding-top: 0;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+
+
+</head>
+
+<body>
+    <nav class="navbar calcite-navbar navbar-fixed-top calcite-text-light calcite-bg-dark">
+
+        <div class="dropdown calcite-dropdown calcite-text-dark calcite-bg-blue" role="presentation">
+            <a class="dropdown-toggle" role="menubutton" aria-haspopup="true" aria-expanded="false" tabindex="0">
+                <div class="calcite-dropdown-toggle">
+                    <span class="sr-only">Toggle dropdown menu</span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </a>
+            <ul class="dropdown-menu" role="menu">
+                <li><a role="menuitem" tabindex="0" data-target="#panelLayerlist" aria-haspopup="true"><span class="glyphicon glyphicon-list-alt"></span>Lijst met lagen</a></li>
+                <li><a role="menuitem" tabindex="0" href="#" data-target="#panelLegend" aria-haspopup="true"><span class="glyphicon glyphicon-list-alt"></span>Legenda</a></li>
+                <li><a role="menuitem" tabindex="0" data-target="#panelBasemapgallery" aria-haspopup="true"><span class="glyphicon glyphicon-th-large"></span>Basiskaartgallerij</a></li>
+                <li><a role="menuitem" tabindex="0" data-target="#panelPrint" aria-haspopup="true"><span class="glyphicon glyphicon-print"></span> Print</a></li>
+                <li><a role="menuitem" tabindex="0" href="#" id="calciteToggleNavbar" aria-haspopup="true"><span class="glyphicon glyphicon-fullscreen"></span>Full Map</a>
+                </li>
+                <li><a href="index.html">Home</a>
+                </li>
+                <li class="active"><a href="javascript.html">Live Corona viewer</a></li>
+                <li><a href="leaflet.html">Risicokaart</a></li>
+                <li><a href="leaflet2.html">Ziekenhuizen</a></li>
+                <li><a href="dashboard.html">Dashboard</a></li>
+                <li><a href="wrld.html">3D map</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </div>
+        <div class="calcite-title calcite-overflow-hidden">
+            <span class="calcite-title-main">Live Corona viewer</span>
+            <span class="calcite-title-divider hidden-xs"></span>
+            <span class="calcite-title-sub hidden-xs">Volg de laatste updates!</span>
+        </div>
+        <ul class="nav navbar-nav calcite-nav">
+            <li>
+                <div class="calcite-navbar-search calcite-search-expander">
+                    <div id="searchWidgetDiv"></div>
+                </div>
+            </li>
+        </ul>
+    </nav>
+    <div class="calcite-map calcite-map-absolute calcite-widgets-dark">
+        <div id="mapViewDiv"></div>
+    </div>
+    <div class="calcite-panels calcite-panels-right calcite-text-light calcite-bg-dark panel-group">
+
+        <div id="panelLegend" class="panel collapse">
+            <div id="headingLegend" class="panel-heading" role="tab">
+                <div class="panel-title">
+                    <a class="panel-toggle" role="button" data-toggle="collapse" href="#collapseLegend" aria-expanded="false" aria-controls="collapseLegend"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span><span class="panel-label">Legend</span></a>
+                    <a class="panel-close" role="button" data-toggle="collapse" tabindex="0" href="#panelLegend"><span class="esri-icon esri-icon-close" aria-hidden="true"></span></a>
+                </div>
+            </div>
+            <div id="collapseLegend" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingLegend">
+                <div class="panel-body">
+                    <div id="legendDiv"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="panelLayerlist" class="panel collapse">
+            <div id="headingLayerlist" class="panel-heading" role="tab">
+                <div class="panel-title">
+                    <a class="panel-toggle collapsed" role="button" data-toggle="collapse" href="#collapseLayerlist" aria-expanded="false" aria-controls="collapseLayerlist"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span><span class="panel-label">Layerlist</span></a>
+                    <a class="panel-close" role="button" data-toggle="collapse" tabindex="0" href="#panelLayerlist"><span class="esri-icon esri-icon-close" aria-hidden="true"></span></a>
+                </div>
+            </div>
+            <div id="collapseLayerlist" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingLayerlist">
+                <div class="panel-body body-light">
+                    <div id="layerlistDiv"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="panelBasemapgallery" class="panel collapse">
+            <div id="headingBasemapgallery" class="panel-heading" role="tab">
+                <div class="panel-title">
+                    <a class="panel-toggle collapsed" role="button" data-toggle="collapse" href="#collapseBasemapgallery" aria-expanded="false" aria-controls="collapseBasemapgallery"><span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span><span class="panel-label">Basemapgallery</span></a>
+                    <a class="panel-close" role="button" data-toggle="collapse" tabindex="0" href="#panelBasemapgallery"><span class="esri-icon esri-icon-close" aria-hidden="true"></span></a>
+                </div>
+            </div>
+            <div id="collapseBasemapgallery" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingBasemapgallery">
+                <div class="panel-body body-light">
+                    <div id="BasemapgalleryDiv"></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="panelPrint" class="panel collapse">
+            <div id="headingPrint" class="panel-heading">
+                <div class="panel-title">
+                    <a class="panel-toggle collapsed" role="button" data-toggle="collapse" href="#collapsePrint" aria-expanded="false" aria-controls="collapsePrint"><span class="glyphicon glyphicon-print" aria-hidden="true"></span><span class="panel-label">Print</span></a>
+                    <a class="panel-close" role="button" data-toggle="collapse" tabindex="0" href="#panelPrint"><span class="esri-icon esri-icon-close" aria-hidden="true"></span></a>
+                </div>
+            </div>
+            <div id="collapsePrint" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingPrint">
+                <div class="panel-body body-light">
+                    <div id="printDiv"></div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        var dojoConfig = {
+            packages: [{
+                    name: "bootstrap",
+                    location: "https://esri.github.io/calcite-maps/dist/vendor/dojo-bootstrap"
+                },
+                {
+                    name: "calcite-maps",
+                    location: "https://esri.github.io/calcite-maps/dist/js/dojo"
+                }
+            ]
+        };
+    </script>
+
+
+    <script src="https://js.arcgis.com/4.13/"></script>
+
+    <script>
+        require([
+            "esri/portal/Portal",
+            "esri/identity/OAuthInfo",
+            "esri/identity/IdentityManager",
+            "esri/WebMap",
+            "esri/views/MapView",
+            "esri/widgets/Home",
+            "esri/widgets/Zoom",
+            "esri/widgets/Search",
+            "esri/widgets/Legend",
+            "esri/widgets/LayerList",
+            "esri/widgets/BasemapGallery",
+            "esri/widgets/Print",
+            "esri/widgets/ScaleBar",
+            "esri/widgets/Attribution",
+            "bootstrap/Collapse",
+            "bootstrap/Dropdown",
+            "calcite-maps/calcitemaps-v0.10",
+            "calcite-maps/calcitemaps-arcgis-support-v0.10",
+            "dojo/domReady!"
+        ], function(Portal, OAuthInfo, esriId, WebMap, MapView, Home, Zoom, Search, Legend, LayerList, BasemapGallery, Print, ScaleBar, Attribution, Collapse, Dropdown, CalciteMaps, CalciteMapArcGISSupport) {
+
+            var portal = new Portal({
+                url: "https://aereshogeschool.maps.arcgis.com"
+            });
+            var info = new OAuthInfo({
+                appId: "WxZd0DV4hPTnlss8",
+                popup: false
+            });
+            esriId.registerOAuthInfos([info]);
+            var webmap = new WebMap({
+                portalItem: {
+                    id: "1d8ef7eafb6046aea8f2bd53f37e1b92"
+                }
+            });
+
+            var mapView = new MapView({
+                container: "mapViewDiv",
+                map: webmap,
+                padding: {
+                    top: 50,
+                    bottom: 0
+                },
+                ui: {
+                    components: []
+                }
+            });
+
+            mapView.when(function() {
+                CalciteMapArcGISSupport.setPopupPanelSync(mapView);
+            });
+
+            var searchWidget = new Search({
+                container: "searchWidgetDiv",
+                view: mapView
+            });
+            CalciteMapArcGISSupport.setSearchExpandEvents(searchWidget);
+
+            var home = new Home({
+                view: mapView
+            });
+            mapView.ui.add(home, "top-left");
+
+            var zoom = new Zoom({
+                view: mapView
+            });
+            mapView.ui.add(zoom, "top-left");
+
+
+            var scaleBar = new ScaleBar({
+                view: mapView
+            });
+            mapView.ui.add(scaleBar, "bottom-left");
+
+            var attribution = new Attribution({
+                view: mapView
+            });
+            mapView.ui.add(attribution, "manual");
+
+            var legendWidget = new Legend({
+                container: "legendDiv",
+                view: mapView
+            });
+
+            var LayerListWidget = new LayerList({
+                container: "layerlistDiv",
+                view: mapView
+            })
+            var BasemapGalleryWidget = new BasemapGallery({
+                container: "BasemapgalleryDiv",
+                view: mapView
+            })
+            var PrintWidget = new Print({
+                container: "printDiv",
+                view: mapView,
+                printServiceUrl: "https://utility.arcgisonline.com/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task"
+            });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,6021 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 377, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.55072877861177, 53.1917563093041
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 377, 
+        "bagvboid" : 14010011054230, 
+        "x" : 232766, 
+        "y" : 578972, 
+        "x_nav" : 232630, 
+        "y_nav" : 578879, 
+        "Organisati" : "Martini Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Van Swieten", 
+        "loc_straat" : "Van Swietenplein", 
+        "Huisnr" : "1", 
+        "postcode" : "9728 NT", 
+        "woonplaats" : "Groningen", 
+        "gemeente" : "Groningen", 
+        "regionr" : 1, 
+        "website" : "www.martiniziekenhuis.nl/", 
+        "telefoon" : "050-524 5245", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 378, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.90615674053877, 53.3253159789357
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 378, 
+        "bagvboid" : 10010000057366, 
+        "x" : 256206, 
+        "y" : 594276, 
+        "x_nav" : 256171, 
+        "y_nav" : 594403, 
+        "Organisati" : "Ommelander Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Delfzicht", 
+        "loc_straat" : "Jachtlaan", 
+        "Huisnr" : "50", 
+        "postcode" : "9934 JD", 
+        "woonplaats" : "Delfzijl", 
+        "gemeente" : "Delfzijl", 
+        "regionr" : 1, 
+        "website" : "www.ommelanderziekenhuis.nl/", 
+        "telefoon" : "088-066 1000", 
+        "code" : 186, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 379, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          7.03617212114451, 53.1458733377373
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 379, 
+        "bagvboid" : 1.89501000000748E+15, 
+        "x" : 265325, 
+        "y" : 574500, 
+        "x_nav" : 265263, 
+        "y_nav" : 574425, 
+        "Organisati" : "Ommelander Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Lucas", 
+        "loc_straat" : "Gassingel", 
+        "Huisnr" : "18", 
+        "postcode" : "9671 CX", 
+        "woonplaats" : "Winschoten", 
+        "gemeente" : "Winschoten", 
+        "regionr" : 1, 
+        "website" : "www.ozg.nl", 
+        "telefoon" : "088 - 066 1000", 
+        "code" : 240, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 380, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.93570817385414, 53.0019943928982
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 380, 
+        "bagvboid" : 37010000366778, 
+        "x" : 258948, 
+        "y" : 558342, 
+        "x_nav" : 258838, 
+        "y_nav" : 558321, 
+        "Organisati" : "Treant Zorggroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Refaja", 
+        "loc_straat" : "Boerhaavestraat", 
+        "Huisnr" : "1", 
+        "postcode" : "9501 HE", 
+        "woonplaats" : "Stadskanaal", 
+        "gemeente" : "Stadskanaal", 
+        "regionr" : 1, 
+        "website" : "www.treant.nl/", 
+        "telefoon" : "0599-65 46 54", 
+        "code" : 200, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 381, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.57602090708376, 53.2224216186646
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 381, 
+        "bagvboid" : 14010011065922, 
+        "x" : 234400, 
+        "y" : 582412, 
+        "x_nav" : 234470, 
+        "y_nav" : 582231, 
+        "Organisati" : "Universitair Medisch Centrum Groningen", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : "Hanzeplein", 
+        "loc_straat" : "Hanzeplein", 
+        "Huisnr" : "1", 
+        "postcode" : "9713 GZ", 
+        "woonplaats" : "Groningen", 
+        "gemeente" : "Groningen", 
+        "regionr" : 1, 
+        "website" : "www.umcg.nl/", 
+        "telefoon" : " ", 
+        "code" : 1339, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 382, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.6424364300804, 53.0349243011494
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 382, 
+        "bagvboid" : 91010000033656, 
+        "x" : 172121, 
+        "y" : 560921, 
+        "x_nav" : 172245, 
+        "y_nav" : 561059, 
+        "Organisati" : "Antonius Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Sneek", 
+        "loc_straat" : "Bolswarderbaan", 
+        "Huisnr" : "1", 
+        "postcode" : "8601 ZK", 
+        "woonplaats" : "Sneek", 
+        "gemeente" : "Súdwest-Fryslân", 
+        "regionr" : 2, 
+        "website" : "www.mijnantonius.nl/", 
+        "telefoon" : "0515 - 48 88 88", 
+        "code" : 304, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 383, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.42953346041862, 53.1622677618156
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 383, 
+        "bagvboid" : 72010000309556, 
+        "x" : 157831, 
+        "y" : 575063, 
+        "x_nav" : 157819, 
+        "y_nav" : 575163, 
+        "Organisati" : "Medisch Centrum Leeuwarden", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "MCL Harlingen", 
+        "loc_straat" : "Achlumerdijk", 
+        "Huisnr" : "2", 
+        "postcode" : "8862 AJ", 
+        "woonplaats" : "Harlingen", 
+        "gemeente" : "Harlingen", 
+        "regionr" : 2, 
+        "website" : "www.mcl.nl", 
+        "telefoon" : "0517 49 99 99", 
+        "code" : 60, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 384, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.80344392647797, 53.1896058766341
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 384, 
+        "bagvboid" : 80010000393236, 
+        "x" : 182822, 
+        "y" : 578185, 
+        "x_nav" : 182647, 
+        "y_nav" : 578107, 
+        "Organisati" : "Medisch Centrum Leeuwarden", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "MCL Leeuwarden", 
+        "loc_straat" : "Henri Dunantweg", 
+        "Huisnr" : "2", 
+        "postcode" : "8934 AD", 
+        "woonplaats" : "Leeuwarden", 
+        "gemeente" : "Leeuwarden", 
+        "regionr" : 2, 
+        "website" : "www.mcl.nl", 
+        "telefoon" : "058 286 66 66", 
+        "code" : 930, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 385, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.11134378519902, 53.0995569508654
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 385, 
+        "bagvboid" : 90010000665066, 
+        "x" : 203503, 
+        "y" : 568327, 
+        "x_nav" : 203522, 
+        "y_nav" : 568536, 
+        "Organisati" : "Nij Smellinghe", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Compagnonsplein", 
+        "Huisnr" : "1", 
+        "postcode" : "9202 NN", 
+        "woonplaats" : "Drachten", 
+        "gemeente" : "Drachten", 
+        "regionr" : 2, 
+        "website" : "www.nijsmellinghe.nl/", 
+        "telefoon" : "0512 588 888", 
+        "code" : 339, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 386, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.99243590913559, 53.3204672886513
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 386, 
+        "bagvboid" : 58010000221040, 
+        "x" : 195332, 
+        "y" : 592838, 
+        "x_nav" : 195168, 
+        "y_nav" : 592895, 
+        "Organisati" : "Sionsberg", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Sionsberg", 
+        "loc_straat" : "Birdaarderstraatweg", 
+        "Huisnr" : "70", 
+        "postcode" : "9101 DC", 
+        "woonplaats" : "Dokkum", 
+        "gemeente" : "Dokkum", 
+        "regionr" : 2, 
+        "website" : "www.sionsberg.nl/", 
+        "telefoon" : "0519-291 234", 
+        "code" : 138, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 387, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.91764018298568, 52.966227120845
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 387, 
+        "bagvboid" : 74010000364356, 
+        "x" : 190638, 
+        "y" : 553377, 
+        "x_nav" : 190521, 
+        "y_nav" : 553335, 
+        "Organisati" : "Tjongerschans", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Thialfweg", 
+        "Huisnr" : "44", 
+        "postcode" : "8441 PW", 
+        "woonplaats" : "Heerenveen", 
+        "gemeente" : "Heerenveen", 
+        "regionr" : 2, 
+        "website" : "www.tjongerschans.nl/", 
+        "telefoon" : "0513- 685 685", 
+        "code" : 210, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 388, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.21740404783877, 52.6907045478236
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 388, 
+        "bagvboid" : 119010000012458, 
+        "x" : 211130, 
+        "y" : 522909, 
+        "x_nav" : 210943, 
+        "y_nav" : 522918, 
+        "Organisati" : "Isala", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Diaconessenhuis Meppel", 
+        "loc_straat" : "Hoogeveenseweg", 
+        "Huisnr" : "38", 
+        "postcode" : "7943 KA", 
+        "woonplaats" : "Meppel", 
+        "gemeente" : "Meppel", 
+        "regionr" : 3, 
+        "website" : "www.isala.nl/", 
+        "telefoon" : "(0522) 23 33 33", 
+        "code" : 330, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 389, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.74257806548964, 52.6633190770848
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 389, 
+        "bagvboid" : 109010000013864, 
+        "x" : 246692, 
+        "y" : 520399, 
+        "x_nav" : 246730, 
+        "y_nav" : 520375, 
+        "Organisati" : "Saxenburgh Groep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Aleida Kramer", 
+        "loc_straat" : "Meindert van der Thijnensingel", 
+        "Huisnr" : "1", 
+        "postcode" : "7741 GB", 
+        "woonplaats" : "Coevorden", 
+        "gemeente" : "Coevorden", 
+        "regionr" : 3, 
+        "website" : "www.saxenburgh.nl", 
+        "telefoon" : "0524 -52 61 26", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 390, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.91301178717775, 52.7862898904173
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 390, 
+        "bagvboid" : 114010000382886, 
+        "x" : 257932, 
+        "y" : 534310, 
+        "x_nav" : 257951, 
+        "y_nav" : 534186, 
+        "Organisati" : "Treant Zorggroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Ziekenhuislocatie Scheper", 
+        "loc_straat" : "Boermarkeweg", 
+        "Huisnr" : "60", 
+        "postcode" : "7824 AA", 
+        "woonplaats" : "Emmen", 
+        "gemeente" : "Emmen", 
+        "regionr" : 3, 
+        "website" : "www.treant.nl/", 
+        "telefoon" : "0591 691 911", 
+        "code" : 381, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 391, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.46010001947004, 52.7270585574317
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 391, 
+        "bagvboid" : 118010090001222, 
+        "x" : 227478, 
+        "y" : 527170, 
+        "x_nav" : 227355, 
+        "y_nav" : 527041, 
+        "Organisati" : "Treant Zorggroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Ziekenhuislocatie Bethesda", 
+        "loc_straat" : "Dr. G.H. Amshoffweg", 
+        "Huisnr" : "1", 
+        "postcode" : "7909 AA", 
+        "woonplaats" : "Hoogeveen", 
+        "gemeente" : "Hoogeveen", 
+        "regionr" : 3, 
+        "website" : "www.bethesda.nl/", 
+        "telefoon" : "0528 28 62 22", 
+        "code" : 272, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 392, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.56490054420153, 52.9839250739089
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 392, 
+        "bagvboid" : 106010000005614, 
+        "x" : 234091, 
+        "y" : 555861, 
+        "x_nav" : 234250, 
+        "y_nav" : 555801, 
+        "Organisati" : "Wilhelmina Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Europaweg-Zuid", 
+        "Huisnr" : "1", 
+        "postcode" : "9401 RK", 
+        "woonplaats" : "Assen", 
+        "gemeente" : "Assen", 
+        "regionr" : 3, 
+        "website" : "www.wza.nl/", 
+        "telefoon" : "0592 32 55 55", 
+        "code" : 340, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 393, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.27313851720072, 52.399397247976
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 393, 
+        "bagvboid" : 177010000242475, 
+        "x" : 215295, 
+        "y" : 490542, 
+        "x_nav" : 215333, 
+        "y_nav" : 490545, 
+        "Organisati" : "Deventer Ziekenhuisgroep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Raalte", 
+        "loc_straat" : "Vrieswijk", 
+        "Huisnr" : "6b", 
+        "postcode" : "8103 PB", 
+        "woonplaats" : "Raalte", 
+        "gemeente" : "Raalte", 
+        "regionr" : 4, 
+        "website" : "www.dz.nl/", 
+        "telefoon" : "(0570) 53 53 53", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 394, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.19175841921015, 52.2614994290488
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 394, 
+        "bagvboid" : 150010000044707, 
+        "x" : 209927, 
+        "y" : 475135, 
+        "x_nav" : 209746, 
+        "y_nav" : 475137, 
+        "Organisati" : "Deventer Ziekenhuisgroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Nico Bolkesteinlaan", 
+        "Huisnr" : "75", 
+        "postcode" : "7416 SE", 
+        "woonplaats" : "Deventer", 
+        "gemeente" : "Deventer", 
+        "regionr" : 4, 
+        "website" : "www.dz.nl/", 
+        "telefoon" : "(0570) 53 53 53", 
+        "code" : 549, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 395, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.55324706924196, 52.6295729700851
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 395, 
+        "bagvboid" : 160010000044218, 
+        "x" : 233945, 
+        "y" : 516421, 
+        "x_nav" : 233924, 
+        "y_nav" : 516401, 
+        "Organisati" : "Gezondheidsspectrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Anton Geerdesplein", 
+        "Huisnr" : "6", 
+        "postcode" : "7776 BD", 
+        "woonplaats" : "Slagharen", 
+        "gemeente" : "Hardenberg", 
+        "regionr" : 4, 
+        "website" : "www.gezondheidsspectrum.nl", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 396, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.91946017065578, 52.5517239522798
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 396, 
+        "bagvboid" : 166010000015730, 
+        "x" : 191100, 
+        "y" : 507255, 
+        "x_nav" : 191173, 
+        "y_nav" : 507271, 
+        "Organisati" : "Isala", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Kampen", 
+        "loc_straat" : "Engelenbergplantsoen", 
+        "Huisnr" : "7", 
+        "postcode" : "8266 AB", 
+        "woonplaats" : "Kampen", 
+        "gemeente" : "Kampen", 
+        "regionr" : 4, 
+        "website" : "www.isala.nl/", 
+        "telefoon" : " (038) 424 60 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 397, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.12441442443806, 52.5127005986262
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 397, 
+        "bagvboid" : 193010000004601, 
+        "x" : 205045, 
+        "y" : 503035, 
+        "x_nav" : 204932, 
+        "y_nav" : 502855, 
+        "Organisati" : "Isala", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Zwolle", 
+        "loc_straat" : "Dokter van Heesweg", 
+        "Huisnr" : "2", 
+        "postcode" : "8025 AB", 
+        "woonplaats" : "Zwolle", 
+        "gemeente" : "Zwolle", 
+        "regionr" : 4, 
+        "website" : "www.isala.nl/", 
+        "telefoon" : " (038) 424 50 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 398, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.42282614321434, 52.528230361097
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 398, 
+        "bagvboid" : 175010000003488, 
+        "x" : 225277, 
+        "y" : 505011, 
+        "x_nav" : 225261, 
+        "y_nav" : 504955, 
+        "Organisati" : "Saxenburgh Groep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Ommen", 
+        "loc_straat" : "Hessel Mulertstraat", 
+        "Huisnr" : "22", 
+        "postcode" : "7731 CL", 
+        "woonplaats" : "Ommen", 
+        "gemeente" : "Ommen", 
+        "regionr" : 4, 
+        "website" : "www.saxenburgh.nl", 
+        "telefoon" : "0523 - 27 60 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 399, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.63263151016411, 52.5722779371443
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 399, 
+        "bagvboid" : 160010000031739, 
+        "x" : 239429, 
+        "y" : 510136, 
+        "x_nav" : 239287, 
+        "y_nav" : 509954, 
+        "Organisati" : "Saxenburgh Groep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Röpcke Zweers", 
+        "loc_straat" : "Jan Weitkamplaan", 
+        "Huisnr" : "4a", 
+        "postcode" : "7772 SE", 
+        "woonplaats" : "Hardenberg", 
+        "gemeente" : "Hardenberg", 
+        "regionr" : 4, 
+        "website" : "www.saxenburgh.nl", 
+        "telefoon" : "0523 -27 60 00", 
+        "code" : 210, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 400, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.51891979197596, 52.3019449924358
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 400, 
+        "bagvboid" : 1.74201000001834E+15, 
+        "x" : 232191, 
+        "y" : 479933, 
+        "x_nav" : 232146, 
+        "y_nav" : 479940, 
+        "Organisati" : "Deventer Ziekenhuisgroep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Rijssen", 
+        "loc_straat" : "Wijnand Zeeuwstraat", 
+        "Huisnr" : "26", 
+        "postcode" : "7462 DE", 
+        "woonplaats" : "Rijssen", 
+        "gemeente" : "Rijssen-Holten", 
+        "regionr" : 5, 
+        "website" : "www.dz.nl/", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 401, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.75330559935938, 52.1600321458138
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 401, 
+        "bagvboid" : 158010000008043, 
+        "x" : 248474, 
+        "y" : 464421, 
+        "x_nav" : 248386, 
+        "y_nav" : 464301, 
+        "Organisati" : "Medisch Spectrum Twente", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Haaksbergen", 
+        "loc_straat" : "Wiedenbroeksingel", 
+        "Huisnr" : "4", 
+        "postcode" : "7481 BT", 
+        "woonplaats" : "Haaksbergen", 
+        "gemeente" : "Haaksbergen", 
+        "regionr" : 5, 
+        "website" : "www.mst.nl", 
+        "telefoon" : "053 487 64 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 402, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          7.00512222512446, 52.2649259657482
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 402, 
+        "bagvboid" : 168010000233568, 
+        "x" : 265442, 
+        "y" : 476444, 
+        "x_nav" : 265340, 
+        "y_nav" : 476434, 
+        "Organisati" : "Medisch Spectrum Twente", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Losser", 
+        "loc_straat" : "Lutterstraat", 
+        "Huisnr" : "4", 
+        "postcode" : "7581 BV", 
+        "woonplaats" : "Losser", 
+        "gemeente" : "Losser", 
+        "regionr" : 5, 
+        "website" : "www.mst.nl", 
+        "telefoon" : "  (053) 487 20 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 403, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.8914545028268, 52.2162594278298
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 403, 
+        "bagvboid" : 153010000294707, 
+        "x" : 257796, 
+        "y" : 470863, 
+        "x_nav" : 257679, 
+        "y_nav" : 470867, 
+        "Organisati" : "Medisch Spectrum Twente", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Haaksbergerstraat", 
+        "loc_straat" : "Haaksbergerstraat", 
+        "Huisnr" : "55", 
+        "postcode" : "7513 ER", 
+        "woonplaats" : "Enschede", 
+        "gemeente" : "Enschede", 
+        "regionr" : 5, 
+        "website" : "www.mst.nl", 
+        "telefoon" : "  (053) 487 20 00", 
+        "code" : 1070, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 404, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.88776519445202, 52.2183918697036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 404, 
+        "bagvboid" : 153010000304805, 
+        "x" : 257539, 
+        "y" : 471095, 
+        "x_nav" : 257689, 
+        "y_nav" : 471011, 
+        "Organisati" : "Medisch Spectrum Twente", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Ariënsplein", 
+        "loc_straat" : "Ariënsplein", 
+        "Huisnr" : "1", 
+        "postcode" : "7511 JX", 
+        "woonplaats" : "Enschede", 
+        "gemeente" : "Enschede", 
+        "regionr" : 5, 
+        "website" : "www.mst.nl", 
+        "telefoon" : "  (053) 487 20 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 405, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.93094009116661, 52.3082845421742
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 405, 
+        "bagvboid" : 173010000165281, 
+        "x" : 260276, 
+        "y" : 481157, 
+        "x_nav" : 260276, 
+        "y_nav" : 481067, 
+        "Organisati" : "Medisch Spectrum Twente", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Oldenzaal", 
+        "loc_straat" : "Pr. Bernhardstraat", 
+        "Huisnr" : "17", 
+        "postcode" : "7573 AM", 
+        "woonplaats" : "Oldenzaal", 
+        "gemeente" : "Oldenzaal", 
+        "regionr" : 5, 
+        "website" : "www.mst.nl", 
+        "telefoon" : "(0541) 57 40 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 406, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.46660574600049, 52.3604631039087
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 406, 
+        "bagvboid" : 163010000569535, 
+        "x" : 228526, 
+        "y" : 486389, 
+        "x_nav" : 228544, 
+        "y_nav" : 486430, 
+        "Organisati" : "Ziekenhuisgroep Twente", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Nijverdal", 
+        "loc_straat" : "Nijkerkendijk", 
+        "Huisnr" : "38", 
+        "postcode" : "7442 LS", 
+        "woonplaats" : "Nijverdal", 
+        "gemeente" : "Hellendoorn", 
+        "regionr" : 5, 
+        "website" : "www.zgt.nl", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 407, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.58697076049713, 52.2304075913665
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 407, 
+        "bagvboid" : 1.73501000001005E+15, 
+        "x" : 236964, 
+        "y" : 472049, 
+        "x_nav" : 236969, 
+        "y_nav" : 472072, 
+        "Organisati" : "Ziekenhuisgroep Twente", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Goor", 
+        "loc_straat" : "Irisstraat", 
+        "Huisnr" : "2-24", 
+        "postcode" : "7471 AV", 
+        "woonplaats" : "Goor", 
+        "gemeente" : "Hof van Twente", 
+        "regionr" : 5, 
+        "website" : "www.zgt.nl", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 408, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.64075079081003, 52.336832083909
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 408, 
+        "bagvboid" : 141010000201583, 
+        "x" : 240433, 
+        "y" : 483951, 
+        "x_nav" : 240487, 
+        "y_nav" : 483827, 
+        "Organisati" : "Ziekenhuisgroep Twente", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Almelo", 
+        "loc_straat" : "Zilvermeeuw", 
+        "Huisnr" : "1", 
+        "postcode" : "7609 PP", 
+        "woonplaats" : "Almelo", 
+        "gemeente" : "Almelo", 
+        "regionr" : 5, 
+        "website" : "www.zgt.nl", 
+        "telefoon" : "088 708 78 78", 
+        "code" : 653, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 409, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.77123349995958, 52.2643827836764
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 409, 
+        "bagvboid" : 164010000017830, 
+        "x" : 249479, 
+        "y" : 476053, 
+        "x_nav" : 249662, 
+        "y_nav" : 475981, 
+        "Organisati" : "Ziekenhuisgroep Twente", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Hengelo", 
+        "loc_straat" : "Geerdinksweg", 
+        "Huisnr" : "141", 
+        "postcode" : "7555 DL", 
+        "woonplaats" : "Hengelo", 
+        "gemeente" : "Hengelo", 
+        "regionr" : 5, 
+        "website" : "www.zgt.nl", 
+        "telefoon" : " ", 
+        "code" : 392, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 410, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.98137919556573, 52.3498737811093
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 410, 
+        "bagvboid" : 232010000007330, 
+        "x" : 195484, 
+        "y" : 484829, 
+        "x_nav" : 195516, 
+        "y_nav" : 484840, 
+        "Organisati" : "Gelre Ziekenhuizen", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Epe", 
+        "loc_straat" : "Willem Tellstraat", 
+        "Huisnr" : "17", 
+        "postcode" : "8162 ET", 
+        "woonplaats" : "Epe", 
+        "gemeente" : "Epe", 
+        "regionr" : 6, 
+        "website" : "www.gelreziekenhuizen.nl/", 
+        "telefoon" : "(055) 581 87 30", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 411, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.42332842561408, 52.1555996401296
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 411, 
+        "bagvboid" : 262010000016486, 
+        "x" : 225904, 
+        "y" : 463554, 
+        "x_nav" : 225861, 
+        "y_nav" : 463525, 
+        "Organisati" : "Gelre Ziekenhuizen", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Lochem", 
+        "loc_straat" : "Zwiepseweg", 
+        "Huisnr" : "105", 
+        "postcode" : "7241 GR", 
+        "woonplaats" : "Lochem", 
+        "gemeente" : "Lochem", 
+        "regionr" : 6, 
+        "website" : "www.gelreziekenhuizen.nl/", 
+        "telefoon" : "(0575) 744 300", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 412, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.94770661897969, 52.1810921171904
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 412, 
+        "bagvboid" : 200010000007591, 
+        "x" : 193335, 
+        "y" : 466032, 
+        "x_nav" : 193243, 
+        "y_nav" : 466132, 
+        "Organisati" : "Gelre Ziekenhuizen", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Albert Schweitzerlaan", 
+        "Huisnr" : "31", 
+        "postcode" : "7334 DZ", 
+        "woonplaats" : "Apeldoorn", 
+        "gemeente" : "Apeldoorn", 
+        "regionr" : 6, 
+        "website" : "www.gelreziekenhuizen.nl/", 
+        "telefoon" : "055 581 81 81", 
+        "code" : 658, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 413, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.21808310030256, 52.1243179899036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 413, 
+        "bagvboid" : 301010000012139, 
+        "x" : 211899, 
+        "y" : 459893, 
+        "x_nav" : 211771, 
+        "y_nav" : 459872, 
+        "Organisati" : "Gelre Ziekenhuizen", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Zutphen", 
+        "loc_straat" : "Den Elterweg", 
+        "Huisnr" : "77", 
+        "postcode" : "7207 AE", 
+        "woonplaats" : "Zutphen", 
+        "gemeente" : "Zutphen", 
+        "regionr" : 6, 
+        "website" : "www.gelreziekenhuizen.nl/", 
+        "telefoon" : "0575 592 592", 
+        "code" : 327, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 414, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.28516280116181, 51.9764228514296
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 414, 
+        "bagvboid" : 222010000651130, 
+        "x" : 216696, 
+        "y" : 443494, 
+        "x_nav" : 216790, 
+        "y_nav" : 443445, 
+        "Organisati" : "Slingeland Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Kruisbergseweg", 
+        "Huisnr" : "25", 
+        "postcode" : "7009 BL", 
+        "woonplaats" : "Doetinchem", 
+        "gemeente" : "Doetinchem", 
+        "regionr" : 6, 
+        "website" : "www.slingeland.nl/", 
+        "telefoon" : " ", 
+        "code" : 448, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 415, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.61615068790012, 52.3420946796357
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 415, 
+        "bagvboid" : 243010001368134, 
+        "x" : 170602, 
+        "y" : 483822, 
+        "x_nav" : 170489, 
+        "y_nav" : 483925, 
+        "Organisati" : "St. Jansdal", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Weth. Jansenlaan", 
+        "Huisnr" : "90", 
+        "postcode" : "3844 DG", 
+        "woonplaats" : "Harderwijk", 
+        "gemeente" : "Harderwijk", 
+        "regionr" : 6, 
+        "website" : "www.stjansdal.nl/", 
+        "telefoon" : "0341 463911", 
+        "code" : 340, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 416, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.64496285430122, 52.0985128616394
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 416, 
+        "bagvboid" : 1.85901000082927E+15, 
+        "x" : 241180, 
+        "y" : 457443, 
+        "x_nav" : 241219, 
+        "y_nav" : 457450, 
+        "Organisati" : "Streekziekenhuis Kon. Beatrix", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Eibergen", 
+        "loc_straat" : "Willem Sluyterstraat", 
+        "Huisnr" : "6", 
+        "postcode" : "7151 DW", 
+        "woonplaats" : "Eibergen", 
+        "gemeente" : "Berkelland", 
+        "regionr" : 6, 
+        "website" : "www.skbwinterswijk.nl", 
+        "telefoon" : "0543 54 44 44", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 417, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.61312026930831, 52.0406809297438
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 417, 
+        "bagvboid" : 1.58601000003285E+15, 
+        "x" : 239107, 
+        "y" : 450972, 
+        "x_nav" : 239183, 
+        "y_nav" : 450981, 
+        "Organisati" : "Streekziekenhuis Kon. Beatrix", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Groenlo", 
+        "loc_straat" : "Buitenschans", 
+        "Huisnr" : "30", 
+        "postcode" : "7141 EL", 
+        "woonplaats" : "Groenlo", 
+        "gemeente" : "Oost-Gelre", 
+        "regionr" : 6, 
+        "website" : "www.skbwinterswijk.nl", 
+        "telefoon" : "0543 54 44 44", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 418, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.56832885287018, 51.9860547183555
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 418, 
+        "bagvboid" : 1.58601000003776E+15, 
+        "x" : 236133, 
+        "y" : 444844, 
+        "x_nav" : 236120, 
+        "y_nav" : 444896, 
+        "Organisati" : "Streekziekenhuis Kon. Beatrix", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Lichtenvoorde", 
+        "loc_straat" : "Van der Meer de Walcherenstraat", 
+        "Huisnr" : "2c", 
+        "postcode" : "7131 EN", 
+        "woonplaats" : "Lichtenvoorde", 
+        "gemeente" : "Oost-Gelre", 
+        "regionr" : 6, 
+        "website" : "www.skbwinterswijk.nl", 
+        "telefoon" : "0543 54 44 44", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 419, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.70098811606221, 51.9785621025726
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 419, 
+        "bagvboid" : 294010000423217, 
+        "x" : 245260, 
+        "y" : 444167, 
+        "x_nav" : 245371, 
+        "y_nav" : 444224, 
+        "Organisati" : "Streekziekenhuis Kon. Beatrix", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Beatrixpark", 
+        "Huisnr" : "1", 
+        "postcode" : "7101 BN", 
+        "woonplaats" : "Winterswijk", 
+        "gemeente" : "Winterswijk", 
+        "regionr" : 6, 
+        "website" : "www.skbwinterswijk.nl", 
+        "telefoon" : " ", 
+        "code" : 314, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 420, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.64535705848422, 52.022584939661
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 420, 
+        "bagvboid" : 228010000035439, 
+        "x" : 172719, 
+        "y" : 448280, 
+        "x_nav" : 172843, 
+        "y_nav" : 448293, 
+        "Organisati" : "Gelderse Vallei", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Ede", 
+        "loc_straat" : "Willy Brandtlaan", 
+        "Huisnr" : "10", 
+        "postcode" : "6716 RG", 
+        "woonplaats" : "Ede", 
+        "gemeente" : "Ede", 
+        "regionr" : 7, 
+        "website" : "www.geldersevallei.nl/", 
+        "telefoon" : "0318 43 43 43", 
+        "code" : 500, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 421, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.88450383006305, 51.9494252593822
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 421, 
+        "bagvboid" : 202010000388183, 
+        "x" : 189189, 
+        "y" : 440226, 
+        "x_nav" : 189223, 
+        "y_nav" : 440228, 
+        "Organisati" : "Rijnstate", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Rijnstate Arnhem-Zuid", 
+        "loc_straat" : "Marga Klompélaan", 
+        "Huisnr" : "6", 
+        "postcode" : "6836 BH", 
+        "woonplaats" : "Arnhem", 
+        "gemeente" : "Arnhem", 
+        "regionr" : 7, 
+        "website" : "www.rijnstate.nl", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 422, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.90987599088776, 52.0009893701094
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 422, 
+        "bagvboid" : 202010000359347, 
+        "x" : 190892, 
+        "y" : 445975, 
+        "x_nav" : 191007, 
+        "y_nav" : 445842, 
+        "Organisati" : "Rijnstate", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Wagnerlaan", 
+        "Huisnr" : "55", 
+        "postcode" : "6815 AD", 
+        "woonplaats" : "Arnhem", 
+        "gemeente" : "Arnhem", 
+        "regionr" : 7, 
+        "website" : "www.rijnstate.nl", 
+        "telefoon" : "088 - 005 8888", 
+        "code" : 650, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 423, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.9764380141942, 51.986311335033
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 423, 
+        "bagvboid" : 275010000015714, 
+        "x" : 195476, 
+        "y" : 444377, 
+        "x_nav" : 195384, 
+        "y_nav" : 444320, 
+        "Organisati" : "Rijnstate", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Velp", 
+        "loc_straat" : "President Kennedylaan", 
+        "Huisnr" : "100", 
+        "postcode" : "6883 AZ", 
+        "woonplaats" : "Velp", 
+        "gemeente" : "Rheden", 
+        "regionr" : 7, 
+        "website" : "www.rijnstate.nl", 
+        "telefoon" : "088 - 005 8888", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 424, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.06966672389384, 51.9422760485767
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 424, 
+        "bagvboid" : 299010000443124, 
+        "x" : 201926, 
+        "y" : 439534, 
+        "x_nav" : 201860, 
+        "y_nav" : 439566, 
+        "Organisati" : "Rijnstate", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Zevenaar", 
+        "loc_straat" : "Hunneveldweg", 
+        "Huisnr" : "14A", 
+        "postcode" : "6903 ZN", 
+        "woonplaats" : "Zevenaar", 
+        "gemeente" : "Zevenaar", 
+        "regionr" : 7, 
+        "website" : "www.rijnstate.nl", 
+        "telefoon" : "088 - 005 8887", 
+        "code" : 203, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 425, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.46656106648879, 52.2103678524666
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 425, 
+        "bagvboid" : 267010000019845, 
+        "x" : 160424, 
+        "y" : 469144, 
+        "x_nav" : 160437, 
+        "y_nav" : 469215, 
+        "Organisati" : "St. Jansdal", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Nijkerk", 
+        "loc_straat" : "Henri Nouwenstraat", 
+        "Huisnr" : "18", 
+        "postcode" : "3863 HV", 
+        "woonplaats" : "Nijkerk", 
+        "gemeente" : "Nijkerk", 
+        "regionr" : 7, 
+        "website" : "www.poliklinieknijkerk.nl", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 426, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.59895549922879, 52.139918492375
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 426, 
+        "bagvboid" : 203010000444795, 
+        "x" : 169496, 
+        "y" : 461324, 
+        "x_nav" : 169512, 
+        "y_nav" : 461278, 
+        "Organisati" : "Ziekenhuis De Gelderse Vallei", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Spreekuurcentrum Barneveld", 
+        "loc_straat" : "Klaverweide", 
+        "Huisnr" : "1a", 
+        "postcode" : "3773 AW", 
+        "woonplaats" : "Barneveld", 
+        "gemeente" : "Barneveld", 
+        "regionr" : 7, 
+        "website" : "www.geldersevallei.nl/", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 427, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.83113730773679, 51.8172754442954
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 427, 
+        "bagvboid" : 268010000070335, 
+        "x" : 185610, 
+        "y" : 425500, 
+        "x_nav" : 185431, 
+        "y_nav" : 425719, 
+        "Organisati" : "Canisius-Wilhelmina Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Weg door Jonkerbos", 
+        "Huisnr" : "100", 
+        "postcode" : "6532 SZ", 
+        "woonplaats" : "Nijmegen", 
+        "gemeente" : "Nijmegen", 
+        "regionr" : 8, 
+        "website" : "www.cwz.nl/", 
+        "telefoon" : "024-3657657", 
+        "code" : 653, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 428, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.24992804248783, 51.8138207329152
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 428, 
+        "bagvboid" : 297010000009012, 
+        "x" : 145534, 
+        "y" : 425031, 
+        "x_nav" : 145521, 
+        "y_nav" : 425051, 
+        "Organisati" : "Jeroen Bosch Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Bommelse Gasthuis", 
+        "loc_straat" : "Kerkstraat", 
+        "Huisnr" : "2", 
+        "postcode" : "5301 EH", 
+        "woonplaats" : "Zaltbommel", 
+        "gemeente" : "Zaltbommel", 
+        "regionr" : 8, 
+        "website" : "www.jeroenboschziekenhuis.nl/", 
+        "telefoon" : "073 553 35 70", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 429, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.86380272009999, 51.823178443837
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 429, 
+        "bagvboid" : 268010000066983, 
+        "x" : 187858, 
+        "y" : 426171, 
+        "x_nav" : 188093, 
+        "y_nav" : 426195, 
+        "Organisati" : "Radboud UMC", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Geert Grooteplein-Zuid", 
+        "Huisnr" : "10", 
+        "postcode" : "6525 GA", 
+        "woonplaats" : "Nijmegen", 
+        "gemeente" : "Nijmegen", 
+        "regionr" : 8, 
+        "website" : "www.radboudumc.nl", 
+        "telefoon" : "024-3611111", 
+        "code" : 953, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 430, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.89837335843332, 51.8019097665514
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 430, 
+        "bagvboid" : 241010000024498, 
+        "x" : 190258, 
+        "y" : 423821, 
+        "x_nav" : 190113, 
+        "y_nav" : 423837, 
+        "Organisati" : "Radboud UMC", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "UCCZ Dekkerswald", 
+        "loc_straat" : "Nijmeegsebaan", 
+        "Huisnr" : "31", 
+        "postcode" : "6561 KE", 
+        "woonplaats" : "Groesbeek", 
+        "gemeente" : "Berg en Dal", 
+        "regionr" : 8, 
+        "website" : "www.radboudumc.nl", 
+        "telefoon" : "024 685 95 61", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 431, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.90012541511501, 51.8335506971106
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 431, 
+        "bagvboid" : 282010000015083, 
+        "x" : 190354, 
+        "y" : 427342, 
+        "x_nav" : 190244, 
+        "y_nav" : 427282, 
+        "Organisati" : "Sint Maartenskliniek", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Hengstdal", 
+        "Huisnr" : "3", 
+        "postcode" : "6522 JV", 
+        "woonplaats" : "Ubbergen", 
+        "gemeente" : "Nijmegen", 
+        "regionr" : 8, 
+        "website" : "www.maartenskliniek.nl", 
+        "telefoon" : "024-3659911", 
+        "code" : 653, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 432, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.22853579809463, 51.9585683817705
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 432, 
+        "bagvboid" : 216010000002399, 
+        "x" : 144094, 
+        "y" : 441138, 
+        "x_nav" : 144026, 
+        "y_nav" : 441112, 
+        "Organisati" : "Ziekenhuis Rivierenland", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Barbara", 
+        "loc_straat" : "Elisabethdreef", 
+        "Huisnr" : "4", 
+        "postcode" : "4101 KL", 
+        "woonplaats" : "Culemborg", 
+        "gemeente" : "Culemborg", 
+        "regionr" : 8, 
+        "website" : "www.zrt.nl/", 
+        "telefoon" : "0344 - 67 4744", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 433, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.41494713653885, 51.8899565081851
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 433, 
+        "bagvboid" : 281010000053896, 
+        "x" : 156910, 
+        "y" : 433493, 
+        "x_nav" : 157071, 
+        "y_nav" : 433585, 
+        "Organisati" : "Ziekenhuis Rivierenland", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Tiel", 
+        "loc_straat" : "President Kennedylaan", 
+        "Huisnr" : "1", 
+        "postcode" : "4002 WP", 
+        "woonplaats" : "Tiel", 
+        "gemeente" : "Tiel", 
+        "regionr" : 8, 
+        "website" : "www.zrt.nl/", 
+        "telefoon" : "0344-674911", 
+        "code" : 373, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 434, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.54970894502407, 52.018558626346
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 434, 
+        "bagvboid" : 345010002071290, 
+        "x" : 166155, 
+        "y" : 447813, 
+        "x_nav" : 166112, 
+        "y_nav" : 447791, 
+        "Organisati" : "De Gelderse Vallei", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Veenendaal", 
+        "loc_straat" : "Spoorlaan", 
+        "Huisnr" : "5", 
+        "postcode" : "3903 XS", 
+        "woonplaats" : "Veenendaal", 
+        "gemeente" : "Veenendaal", 
+        "regionr" : 9, 
+        "website" : "www.geldersevallei.nl/", 
+        "telefoon" : "0318-433232", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 435, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.35173107132117, 52.0351502656545
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 435, 
+        "bagvboid" : 1.58101000002458E+15, 
+        "x" : 152566, 
+        "y" : 449647, 
+        "x_nav" : 152500, 
+        "y_nav" : 449541, 
+        "Organisati" : "Diakonessenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Doorn", 
+        "loc_straat" : "Bergweg", 
+        "Huisnr" : "2", 
+        "postcode" : "3941 RB", 
+        "woonplaats" : "Doorn", 
+        "gemeente" : "Utrechtse Heuvelrug", 
+        "regionr" : 9, 
+        "website" : "www.diakonessenhuis.nl/", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 436, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.13830779196474, 52.0815316983708
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 436, 
+        "bagvboid" : 344010000051321, 
+        "x" : 137939, 
+        "y" : 454836, 
+        "x_nav" : 137990, 
+        "y_nav" : 454951, 
+        "Organisati" : "Diakonessenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Utrecht", 
+        "loc_straat" : "Bosboomstraat", 
+        "Huisnr" : "1", 
+        "postcode" : "3582 KE", 
+        "woonplaats" : "Utrecht", 
+        "gemeente" : "Utrecht", 
+        "regionr" : 9, 
+        "website" : "www.diakonessenhuis.nl/", 
+        "telefoon" : "030-2566566", 
+        "code" : 627, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 437, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.26216602616806, 52.0914713728513
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 437, 
+        "bagvboid" : 355010000769920, 
+        "x" : 146431, 
+        "y" : 455920, 
+        "x_nav" : 146299, 
+        "y_nav" : 455922, 
+        "Organisati" : "Diakonessenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Zeist", 
+        "loc_straat" : "Jagersingel", 
+        "Huisnr" : "1", 
+        "postcode" : "3707 JA", 
+        "woonplaats" : "Zeist", 
+        "gemeente" : "Zeist", 
+        "regionr" : 9, 
+        "website" : "www.diakonessenhuis.nl/", 
+        "telefoon" : "030-6989911", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 438, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.27664351466107, 52.2147470536665
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 438, 
+        "bagvboid" : 308010000006275, 
+        "x" : 147444, 
+        "y" : 469634, 
+        "x_nav" : 147492, 
+        "y_nav" : 469566, 
+        "Organisati" : "Meander Medisch Centrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Baarn", 
+        "loc_straat" : "Molenweg", 
+        "Huisnr" : "2", 
+        "postcode" : "3743 CM", 
+        "woonplaats" : "Baarn", 
+        "gemeente" : "Baarn", 
+        "regionr" : 9, 
+        "website" : "www.meandermc.nl", 
+        "telefoon" : "033-8505050", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 439, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.36992577123185, 52.1704871440448
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 439, 
+        "bagvboid" : 307010000544408, 
+        "x" : 153818, 
+        "y" : 464704, 
+        "x_nav" : 153934, 
+        "y_nav" : 464812, 
+        "Organisati" : "Meander Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Maatweg", 
+        "Huisnr" : "3", 
+        "postcode" : "3813 TZ", 
+        "woonplaats" : "Amersfoort", 
+        "gemeente" : "Amersfoort", 
+        "regionr" : 9, 
+        "website" : "www.meandermc.nl", 
+        "telefoon" : "033-8505050", 
+        "code" : 902, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 440, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.1789486606004, 52.0194310728536
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 440, 
+        "bagvboid" : 321010000019091, 
+        "x" : 140705, 
+        "y" : 447918, 
+        "x_nav" : 140726, 
+        "y_nav" : 447989, 
+        "Organisati" : "Sint Antonius ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Houten", 
+        "loc_straat" : "Hofspoor", 
+        "Huisnr" : "2", 
+        "postcode" : "3994 VZ", 
+        "woonplaats" : "Houten", 
+        "gemeente" : "Houten", 
+        "regionr" : 9, 
+        "website" : "www.antoniusziekenhuis.nl", 
+        "telefoon" : "088 - 320 30 05", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 441, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.12253075331073, 52.1147712334941
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 441, 
+        "bagvboid" : 344010000024837, 
+        "x" : 136871, 
+        "y" : 458538, 
+        "x_nav" : 136898, 
+        "y_nav" : 458608, 
+        "Organisati" : "Sint Antonius ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Poli Overvecht", 
+        "loc_straat" : "Neckardreef", 
+        "Huisnr" : "6", 
+        "postcode" : "3562 CN", 
+        "woonplaats" : "Utrecht", 
+        "gemeente" : "Utrecht", 
+        "regionr" : 9, 
+        "website" : "www.antoniusziekenhuis.nl", 
+        "telefoon" : "088 - 320 30 07", 
+        "code" : 529, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 442, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.08124315930962, 52.02521292371
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 442, 
+        "bagvboid" : 356010000045611, 
+        "x" : 134001, 
+        "y" : 448585, 
+        "x_nav" : 133932, 
+        "y_nav" : 448786, 
+        "Organisati" : "Sint Antonius ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Koekoekslaan", 
+        "Huisnr" : "1", 
+        "postcode" : "3435 CM", 
+        "woonplaats" : "Nieuwegein", 
+        "gemeente" : "Nieuwegein", 
+        "regionr" : 9, 
+        "website" : "www.antoniusziekenhuis.nl", 
+        "telefoon" : "088-3203000", 
+        "code" : 584, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 443, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.05769260809561, 52.1031752808751
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 443, 
+        "bagvboid" : 344010000132894, 
+        "x" : 132424, 
+        "y" : 457266, 
+        "x_nav" : 132554, 
+        "y_nav" : 457244, 
+        "Organisati" : "Sint Antonius ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Leidsche Rijn", 
+        "loc_straat" : "Soestwetering", 
+        "Huisnr" : "1", 
+        "postcode" : "3543 AZ", 
+        "woonplaats" : "Utrecht", 
+        "gemeente" : "Utrecht", 
+        "regionr" : 9, 
+        "website" : "www.antoniusziekenhuis.nl", 
+        "telefoon" : "088-3203000", 
+        "code" : 529, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 444, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.29516117673401, 52.1753420283812
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 444, 
+        "bagvboid" : 342010000021923, 
+        "x" : 148704, 
+        "y" : 465248, 
+        "x_nav" : 148656, 
+        "y_nav" : 465311, 
+        "Organisati" : "Soest", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Zorgplein Soest", 
+        "loc_straat" : "Dalplein", 
+        "Huisnr" : "61", 
+        "postcode" : "3762 BM", 
+        "woonplaats" : "Soest", 
+        "gemeente" : "Soest", 
+        "regionr" : 9, 
+        "website" : "www.hetzorgpleinsoest.nl", 
+        "telefoon" : "033-8505050", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 445, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.18019755343322, 52.0865200957121
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 445, 
+        "bagvboid" : 344010000041439, 
+        "x" : 140812, 
+        "y" : 455382, 
+        "x_nav" : 140562, 
+        "y_nav" : 455224, 
+        "Organisati" : "UMC Utrecht", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : "Academisch Ziekenhuis Utrecht", 
+        "loc_straat" : "Heidelberglaan", 
+        "Huisnr" : "100", 
+        "postcode" : "3584 CX", 
+        "woonplaats" : "Utrecht", 
+        "gemeente" : "Utrecht", 
+        "regionr" : 9, 
+        "website" : "www.umcutrecht.nl/", 
+        "telefoon" : "088-7555555", 
+        "code" : 857, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 446, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.18124864325456, 52.0895598898147
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 446, 
+        "bagvboid" : 344010000127141, 
+        "x" : 140885, 
+        "y" : 455720, 
+        "x_nav" : 140785, 
+        "y_nav" : 455597, 
+        "Organisati" : "UMC Utrecht", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : "Wilhelmina Kinderziekenhuis", 
+        "loc_straat" : "Lundlaan", 
+        "Huisnr" : "6", 
+        "postcode" : "3584 EA", 
+        "woonplaats" : "Utrecht", 
+        "gemeente" : "Utrecht", 
+        "regionr" : 9, 
+        "website" : "www.umcutrecht.nl/", 
+        "telefoon" : "088-7555555", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 447, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.89121342153717, 52.0795291812697
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 447, 
+        "bagvboid" : 632010000010030, 
+        "x" : 121000, 
+        "y" : 454700, 
+        "x_nav" : 120982, 
+        "y_nav" : 454807, 
+        "Organisati" : "Zuwe Hofpoort Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Polanerbaan", 
+        "Huisnr" : "2", 
+        "postcode" : "3447 GN", 
+        "woonplaats" : "Woerden", 
+        "gemeente" : "Woerden", 
+        "regionr" : 9, 
+        "website" : "www.zuwehofpoort.nl", 
+        "telefoon" : "0348-427911", 
+        "code" : 262, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 448, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.7367192677807, 52.6285548031029
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 448, 
+        "bagvboid" : 361010000040532, 
+        "x" : 110958, 
+        "y" : 515869, 
+        "x_nav" : 111162, 
+        "y_nav" : 515841, 
+        "Organisati" : "Noordwest Ziekenhuisgroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Alkmaar", 
+        "loc_straat" : "Wilhelminalaan", 
+        "Huisnr" : "12", 
+        "postcode" : "1815 JD", 
+        "woonplaats" : "Alkmaar", 
+        "gemeente" : "Alkmaar", 
+        "regionr" : 10, 
+        "website" : "www.nwz.nl", 
+        "telefoon" : "072-5484444", 
+        "code" : 913, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 449, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.74442674257288, 52.9581114687509
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 449, 
+        "bagvboid" : 400010000022381, 
+        "x" : 111806, 
+        "y" : 552535, 
+        "x_nav" : 111744, 
+        "y_nav" : 552566, 
+        "Organisati" : "Noordwest Ziekenhuisgroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Den Helder", 
+        "loc_straat" : "Huisduinerweg", 
+        "Huisnr" : "3", 
+        "postcode" : "1782 GZ", 
+        "woonplaats" : "Den Helder", 
+        "gemeente" : "Den Helder", 
+        "regionr" : 10, 
+        "website" : "www.gemini-ziekenhuis.nl", 
+        "telefoon" : "0223-696969", 
+        "code" : 300, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 450, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.28896391919913, 52.7058280520528
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 450, 
+        "bagvboid" : 388010000212252, 
+        "x" : 148360, 
+        "y" : 524274, 
+        "x_nav" : 148371, 
+        "y_nav" : 524250, 
+        "Organisati" : "Westfries Gasthuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Poli Enkhuizen", 
+        "loc_straat" : "Molenweg", 
+        "Huisnr" : "9b", 
+        "postcode" : "1601 SR", 
+        "woonplaats" : "Enkhuizen", 
+        "gemeente" : "Enkhuizen", 
+        "regionr" : 10, 
+        "website" : "www.westfriesgasthuis.nl/", 
+        "telefoon" : "0228 31 23 45", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 451, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.05375632838717, 52.6475076654506
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 451, 
+        "bagvboid" : 405010000620029, 
+        "x" : 132433, 
+        "y" : 517832, 
+        "x_nav" : 132492, 
+        "y_nav" : 517855, 
+        "Organisati" : "Westfries Gasthuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Hoorn", 
+        "loc_straat" : "Maelsonstraat", 
+        "Huisnr" : "3", 
+        "postcode" : "1624 NP", 
+        "woonplaats" : "Hoorn", 
+        "gemeente" : "Hoorn", 
+        "regionr" : 10, 
+        "website" : "www.westfriesgasthuis.nl/", 
+        "telefoon" : "0229-257257", 
+        "code" : 380, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 452, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.05650516989472, 52.4920448870382
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 452, 
+        "bagvboid" : 385010000005259, 
+        "x" : 132540, 
+        "y" : 500533, 
+        "x_nav" : 132573, 
+        "y_nav" : 500511, 
+        "Organisati" : "Waterlandziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Waterland-Oost", 
+        "loc_straat" : "Heideweg", 
+        "Huisnr" : "1b", 
+        "postcode" : "1132 DA", 
+        "woonplaats" : "Volendam", 
+        "gemeente" : "Edam-Volendam", 
+        "regionr" : 11, 
+        "website" : "www.waterlandziekenhuis.nl/", 
+        "telefoon" : "0299 457 001", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 453, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.9625444742998, 52.5004460147363
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 453, 
+        "bagvboid" : 439010000014483, 
+        "x" : 126164, 
+        "y" : 501501, 
+        "x_nav" : 126298, 
+        "y_nav" : 501572, 
+        "Organisati" : "Waterlandziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Purmerend", 
+        "loc_straat" : "Waterlandlaan", 
+        "Huisnr" : "250", 
+        "postcode" : "1441 RN", 
+        "woonplaats" : "Purmerend", 
+        "gemeente" : "Purmerend", 
+        "regionr" : 11, 
+        "website" : "www.waterlandziekenhuis.nl/", 
+        "telefoon" : "0299-457457", 
+        "code" : 300, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 454, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.75188388971179, 52.4886299732108
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 454, 
+        "bagvboid" : 479010000052291, 
+        "x" : 111848, 
+        "y" : 500291, 
+        "x_nav" : 111936, 
+        "y_nav" : 500377, 
+        "Organisati" : "Zaans Medisch Centrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Saendelft", 
+        "loc_straat" : "Kaaikhof", 
+        "Huisnr" : "69", 
+        "postcode" : "1567 JP", 
+        "woonplaats" : "Assendelft", 
+        "gemeente" : "Zaanstad", 
+        "regionr" : 11, 
+        "website" : "www.zaansmedischcentrum.nl/", 
+        "telefoon" : "075 650 14 50", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 455, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.82582585210359, 52.4536279127921
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 455, 
+        "bagvboid" : 479010000079044, 
+        "x" : 116840, 
+        "y" : 496355, 
+        "x_nav" : 116860, 
+        "y_nav" : 496420, 
+        "Organisati" : "Zaans Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Koningin Julianaplein", 
+        "Huisnr" : "58", 
+        "postcode" : "1502 DV", 
+        "woonplaats" : "Zaandam", 
+        "gemeente" : "Zaanstad", 
+        "regionr" : 11, 
+        "website" : "www.zaansmedischcentrum.nl/", 
+        "telefoon" : "075-6502911", 
+        "code" : 365, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 456, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.67440742001582, 52.5189362155916
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 456, 
+        "bagvboid" : 396010001008874, 
+        "x" : 106619, 
+        "y" : 503712, 
+        "x_nav" : 106678, 
+        "y_nav" : 503646, 
+        "Organisati" : "Rode Kruis Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Heemskerk", 
+        "loc_straat" : "Mozartstraat", 
+        "Huisnr" : "201", 
+        "postcode" : "1962 AL", 
+        "woonplaats" : "Heemskerk", 
+        "gemeente" : "Heemskerk", 
+        "regionr" : 12, 
+        "website" : "www.rkz.nl/", 
+        "telefoon" : "0251-265555", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 457, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.6508171589657, 52.4793182778772
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 457, 
+        "bagvboid" : 375010000019752, 
+        "x" : 104973, 
+        "y" : 499320, 
+        "x_nav" : 104905, 
+        "y_nav" : 499338, 
+        "Organisati" : "Rode Kruis Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Beverwijk", 
+        "loc_straat" : "Vondellaan", 
+        "Huisnr" : "13", 
+        "postcode" : "1942 LE", 
+        "woonplaats" : "Beverwijk", 
+        "gemeente" : "Beverwijk", 
+        "regionr" : 12, 
+        "website" : "www.rkz.nl/", 
+        "telefoon" : "0251-265555", 
+        "code" : 375, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 458, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.64972768629437, 52.4228414751598
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 458, 
+        "bagvboid" : 392010000090091, 
+        "x" : 104835, 
+        "y" : 493037, 
+        "x_nav" : 104861, 
+        "y_nav" : 492936, 
+        "Organisati" : "Spaarne Gasthuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Haarlem Noord", 
+        "loc_straat" : "Vondelweg", 
+        "Huisnr" : "999", 
+        "postcode" : "2026 BW", 
+        "woonplaats" : "Haarlem", 
+        "gemeente" : "Haarlem", 
+        "regionr" : 12, 
+        "website" : "www.spaarnegasthuis.nl", 
+        "telefoon" : "023 224 00 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 459, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.65244800214221, 52.3660822717807
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 459, 
+        "bagvboid" : 392010000007049, 
+        "x" : 104956, 
+        "y" : 486720, 
+        "x_nav" : 104845, 
+        "y_nav" : 486726, 
+        "Organisati" : "Spaarne Gasthuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Haarlem Zuid", 
+        "loc_straat" : "Boerhaavelaan", 
+        "Huisnr" : "22", 
+        "postcode" : "2035 RC", 
+        "woonplaats" : "Haarlem", 
+        "gemeente" : "Haarlem", 
+        "regionr" : 12, 
+        "website" : "www.spaarnegasthuis.nl", 
+        "telefoon" : "023 224 00 00", 
+        "code" : 800, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 460, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.65377740142573, 52.3238563594845
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 460, 
+        "bagvboid" : 394010000331785, 
+        "x" : 104999, 
+        "y" : 482021, 
+        "x_nav" : 105053, 
+        "y_nav" : 482073, 
+        "Organisati" : "Spaarne Gasthuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Hoofddorp", 
+        "loc_straat" : "Spaarnepoort", 
+        "Huisnr" : "1", 
+        "postcode" : "2134 TM", 
+        "woonplaats" : "Hoofddorp", 
+        "gemeente" : "Haarlemmermeer", 
+        "regionr" : 12, 
+        "website" : "www.spaarnegasthuis.nl", 
+        "telefoon" : "023 224 00 00", 
+        "code" : 455, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 461, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.63330139158023, 52.3548887711185
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 461, 
+        "bagvboid" : 397010000006554, 
+        "x" : 103639, 
+        "y" : 485488, 
+        "x_nav" : 103542, 
+        "y_nav" : 485565, 
+        "Organisati" : "Spaarne Gasthuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Heemstede", 
+        "loc_straat" : "Händellaan", 
+        "Huisnr" : "2a", 
+        "postcode" : "2102 CW", 
+        "woonplaats" : "Heemstede", 
+        "gemeente" : "Heemstede", 
+        "regionr" : 12, 
+        "website" : "www.spaarnegasthuis.nl", 
+        "telefoon" : "023 224 00 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 462, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.95797709137414, 52.2942983435063
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 462, 
+        "bagvboid" : 363010000899097, 
+        "x" : 125718, 
+        "y" : 478566, 
+        "x_nav" : 125587, 
+        "y_nav" : 478731, 
+        "Organisati" : "Academisch Medisch Centrum", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : "AMC", 
+        "loc_straat" : "Meibergdreef", 
+        "Huisnr" : "9", 
+        "postcode" : "1105 AZ", 
+        "woonplaats" : "Amsterdam", 
+        "gemeente" : "Amsterdam", 
+        "regionr" : 13, 
+        "website" : "www.amc.nl/", 
+        "telefoon" : "020-5669111", 
+        "code" : 930, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 463, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.92234638397156, 52.4046227365785
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 463, 
+        "bagvboid" : 363010000820648, 
+        "x" : 123366, 
+        "y" : 490856, 
+        "x_nav" : 123178, 
+        "y_nav" : 490903, 
+        "Organisati" : "BovenIJ Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Statenjachtstraat", 
+        "Huisnr" : "1", 
+        "postcode" : "1034 CS", 
+        "woonplaats" : "Amsterdam", 
+        "gemeente" : "Amsterdam", 
+        "regionr" : 13, 
+        "website" : "www.bovenij.nl/", 
+        "telefoon" : "020-6346346", 
+        "code" : 300, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 464, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.82560355899538, 52.3482369842786
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 464, 
+        "bagvboid" : 363010000729568, 
+        "x" : 116734, 
+        "y" : 484629, 
+        "x_nav" : 116644, 
+        "y_nav" : 484770, 
+        "Organisati" : "MC Slotervaart", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Louwesweg", 
+        "Huisnr" : "6", 
+        "postcode" : "1066 EC", 
+        "woonplaats" : "Amsterdam", 
+        "gemeente" : "Amsterdam", 
+        "regionr" : 13, 
+        "website" : "www.mcslotervaart.com", 
+        "telefoon" : "020-5129333", 
+        "code" : 310, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 465, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.91565513496383, 52.3581389193985
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 465, 
+        "bagvboid" : 363010001013883, 
+        "x" : 122877, 
+        "y" : 485687, 
+        "x_nav" : 122970, 
+        "y_nav" : 485739, 
+        "Organisati" : "OLVG", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Oost", 
+        "loc_straat" : "Oosterpark", 
+        "Huisnr" : "9", 
+        "postcode" : "1091 BC", 
+        "woonplaats" : "Amsterdam", 
+        "gemeente" : "Amsterdam", 
+        "regionr" : 13, 
+        "website" : "www.olvg.nl/", 
+        "telefoon" : "020-5999111", 
+        "code" : 530, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 466, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.83943908359522, 52.3711756536872
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 466, 
+        "bagvboid" : 363010000686941, 
+        "x" : 117696, 
+        "y" : 487174, 
+        "x_nav" : 117592, 
+        "y_nav" : 487116, 
+        "Organisati" : "OLVG", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. West", 
+        "loc_straat" : "Jan Tooropstraat", 
+        "Huisnr" : "164", 
+        "postcode" : "1061 AE", 
+        "woonplaats" : "Amsterdam", 
+        "gemeente" : "Amsterdam", 
+        "regionr" : 13, 
+        "website" : "www.olvg.nl/", 
+        "telefoon" : "020-5108911", 
+        "code" : 551, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 467, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.85973217414653, 52.3341573197966
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 467, 
+        "bagvboid" : 363010000837257, 
+        "x" : 119048, 
+        "y" : 483045, 
+        "x_nav" : 118933, 
+        "y_nav" : 483152, 
+        "Organisati" : "VU Medisch Centrum", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "de Boelelaan", 
+        "Huisnr" : "1117", 
+        "postcode" : "1081 HV", 
+        "woonplaats" : "Amsterdam", 
+        "gemeente" : "Amsterdam", 
+        "regionr" : 13, 
+        "website" : "www.vumc.nl/", 
+        "telefoon" : "020-4444444", 
+        "code" : 713, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 468, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.87404805245763, 52.293874061123
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 468, 
+        "bagvboid" : 362010002017996, 
+        "x" : 119992, 
+        "y" : 478556, 
+        "x_nav" : 119956, 
+        "y_nav" : 478461, 
+        "Organisati" : "Ziekenhuis Amstelveen", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Amstelland", 
+        "loc_straat" : "Laan van de Helende Meesters", 
+        "Huisnr" : "8", 
+        "postcode" : "1186 AM", 
+        "woonplaats" : "Amstelveen", 
+        "gemeente" : "Amstelveen", 
+        "regionr" : 13, 
+        "website" : "www.ziekenhuisamstelveen.nl/", 
+        "telefoon" : "020-7557000", 
+        "code" : 255, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 469, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.03867862745814, 52.3046389547636
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 469, 
+        "bagvboid" : 457010000002668, 
+        "x" : 131229, 
+        "y" : 479687, 
+        "x_nav" : 131189, 
+        "y_nav" : 479690, 
+        "Organisati" : "Tergooi", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Weesp", 
+        "loc_straat" : "C.J. van Houtenlaan", 
+        "Huisnr" : "1", 
+        "postcode" : "1381 CN", 
+        "woonplaats" : "Weesp", 
+        "gemeente" : "Weesp", 
+        "regionr" : 14, 
+        "website" : "www.tergooi.nl", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 470, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.20757136435806, 52.2676451133713
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 470, 
+        "bagvboid" : 376010000002873, 
+        "x" : 142738, 
+        "y" : 475529, 
+        "x_nav" : 142719, 
+        "y_nav" : 475404, 
+        "Organisati" : "Tergooi", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Gooi-Noord", 
+        "loc_straat" : "Rijksstraatweg", 
+        "Huisnr" : "1", 
+        "postcode" : "1261 AN", 
+        "woonplaats" : "Blaricum", 
+        "gemeente" : "Blaricum", 
+        "regionr" : 14, 
+        "website" : "www.tergooi.nl", 
+        "telefoon" : "088 753 1 753", 
+        "code" : 446, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 471, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.20203852488904, 52.2171972199788
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 471, 
+        "bagvboid" : 402010001616384, 
+        "x" : 142346, 
+        "y" : 469917, 
+        "x_nav" : 142214, 
+        "y_nav" : 469890, 
+        "Organisati" : "Tergooi", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Hilversum", 
+        "loc_straat" : "van Riebeeckweg", 
+        "Huisnr" : "212", 
+        "postcode" : "1213 XZ", 
+        "woonplaats" : "Hilversum", 
+        "gemeente" : "Hilversum", 
+        "regionr" : 14, 
+        "website" : "www.tergooi.nl", 
+        "telefoon" : "088 753 1 753", 
+        "code" : 489, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 472, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.26313535428572, 52.0811979909282
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 472, 
+        "bagvboid" : 518100000341842, 
+        "x" : 77950, 
+        "y" : 455366, 
+        "x_nav" : 77960, 
+        "y_nav" : 455407, 
+        "Organisati" : "HagaZiekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Sportlaan", 
+        "loc_straat" : "Sportlaan", 
+        "Huisnr" : "600", 
+        "postcode" : "2566 MJ", 
+        "woonplaats" : "Den Haag", 
+        "gemeente" : "Den Haag", 
+        "regionr" : 15, 
+        "website" : "www.hagaziekenhuis.nl/", 
+        "telefoon" : "070-2100000", 
+        "code" : 227, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 473, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.26316076694908, 52.0558047881094
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 473, 
+        "bagvboid" : 518010000837327, 
+        "x" : 77908, 
+        "y" : 452541, 
+        "x_nav" : 78104, 
+        "y_nav" : 452508, 
+        "Organisati" : "HagaZiekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Leyweg", 
+        "loc_straat" : "Els Borst-Eilersplein", 
+        "Huisnr" : "275", 
+        "postcode" : "2545 CH", 
+        "woonplaats" : "Den Haag", 
+        "gemeente" : "Den Haag", 
+        "regionr" : 15, 
+        "website" : "www.hagaziekenhuis.nl/", 
+        "telefoon" : "070-2100000", 
+        "code" : 489, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 474, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.49940216212781, 52.0691028266558
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 474, 
+        "bagvboid" : 637010000216509, 
+        "x" : 94128, 
+        "y" : 453796, 
+        "x_nav" : 94199, 
+        "y_nav" : 453882, 
+        "Organisati" : "Het Lange Land", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Toneellaan", 
+        "Huisnr" : "1", 
+        "postcode" : "2725 AN", 
+        "woonplaats" : "Zoetermeer", 
+        "gemeente" : "Zoetermeer", 
+        "regionr" : 15, 
+        "website" : "www.langeland.nl/", 
+        "telefoon" : "079-3462626", 
+        "code" : 229, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 475, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.18151872474639, 52.0282099385192
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 475, 
+        "bagvboid" : 1.78301000002414E+15, 
+        "x" : 72258, 
+        "y" : 449561, 
+        "x_nav" : 72263, 
+        "y_nav" : 449534, 
+        "Organisati" : "Medisch Centrum Haaglanden", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Monster", 
+        "loc_straat" : "Molenweg", 
+        "Huisnr" : "41", 
+        "postcode" : "2681 RE", 
+        "woonplaats" : "Monster", 
+        "gemeente" : "Westland", 
+        "regionr" : 15, 
+        "website" : "www.mchaaglanden.nl/", 
+        "telefoon" : "0174 241 847", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 476, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.30009058702026, 52.0740032444814
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 476, 
+        "bagvboid" : 518010000702612, 
+        "x" : 80471, 
+        "y" : 454527, 
+        "x_nav" : 80451, 
+        "y_nav" : 454507, 
+        "Organisati" : "Medisch Centrum Haaglanden", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Westeinde", 
+        "loc_straat" : "Lijnbaan", 
+        "Huisnr" : "32", 
+        "postcode" : "2512 VA", 
+        "woonplaats" : "Den Haag", 
+        "gemeente" : "Den Haag", 
+        "regionr" : 15, 
+        "website" : "www.mchaaglanden.nl/", 
+        "telefoon" : "088 97 97 900", 
+        "code" : 527, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 477, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.31784517825513, 52.1013746130801
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 477, 
+        "bagvboid" : 518010000460415, 
+        "x" : 81733, 
+        "y" : 457554, 
+        "x_nav" : 81704, 
+        "y_nav" : 457664, 
+        "Organisati" : "Medisch Centrum Haaglanden", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Bronovo", 
+        "loc_straat" : "Bronovolaan", 
+        "Huisnr" : "5", 
+        "postcode" : "2597 AX", 
+        "woonplaats" : "Den Haag", 
+        "gemeente" : "Den Haag", 
+        "regionr" : 15, 
+        "website" : "www.bronovo.nl/", 
+        "telefoon" : "088 97 97 900", 
+        "code" : 400, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 478, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.38382953381864, 52.0931099310809
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 478, 
+        "bagvboid" : 1.91601000004651E+15, 
+        "x" : 86241, 
+        "y" : 456570, 
+        "x_nav" : 86179, 
+        "y_nav" : 456412, 
+        "Organisati" : "Medisch Centrum Haaglanden", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Antoniushove", 
+        "loc_straat" : "Burgemeester Banninglaan", 
+        "Huisnr" : "1", 
+        "postcode" : "2262 BA", 
+        "woonplaats" : "Leidschendam", 
+        "gemeente" : "Leidschendam-Voorburg", 
+        "regionr" : 15, 
+        "website" : "www.mchaaglanden.nl/", 
+        "telefoon" : "088 97 97 900", 
+        "code" : 250, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 479, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.38519753635108, 52.0515938898819
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 479, 
+        "bagvboid" : 518010000451419, 
+        "x" : 86271, 
+        "y" : 451950, 
+        "x_nav" : 86265, 
+        "y_nav" : 451901, 
+        "Organisati" : "Reinier de Graaf", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "De Reef", 
+        "loc_straat" : "Kiekendiefstraat", 
+        "Huisnr" : "17", 
+        "postcode" : "2496 RP", 
+        "woonplaats" : "Den Haag", 
+        "gemeente" : "Den Haag", 
+        "regionr" : 15, 
+        "website" : "www.reinierdegraaf.nl", 
+        "telefoon" : "015 270 68 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 480, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.21636622809331, 51.9901158548841
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 480, 
+        "bagvboid" : 1.78301000000268E+15, 
+        "x" : 74581, 
+        "y" : 445284, 
+        "x_nav" : 74565, 
+        "y_nav" : 445332, 
+        "Organisati" : "Reinier de Graaf", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Behandelcentrum Westland", 
+        "loc_straat" : "Middel broekweg", 
+        "Huisnr" : "2a", 
+        "postcode" : "2671 ME", 
+        "woonplaats" : "Naaldwijk", 
+        "gemeente" : "Westland", 
+        "regionr" : 15, 
+        "website" : "www.reinierdegraaf.nl", 
+        "telefoon" : "0174 - 63 77 00", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 481, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.34063393820409, 51.9976690228714
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 481, 
+        "bagvboid" : 503010000011976, 
+        "x" : 83128, 
+        "y" : 445994, 
+        "x_nav" : 82941, 
+        "y_nav" : 446061, 
+        "Organisati" : "Reinier de Graaf", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Gasthuis Delft", 
+        "loc_straat" : "Reinier de Graafweg", 
+        "Huisnr" : "5", 
+        "postcode" : "2625 AD", 
+        "woonplaats" : "Delft", 
+        "gemeente" : "Delft", 
+        "regionr" : 15, 
+        "website" : "www.reinierdegraaf.nl", 
+        "telefoon" : "015-2603060", 
+        "code" : 905, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 482, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.35145863606847, 52.0611087998699
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 482, 
+        "bagvboid" : 1.9160100000525E+15, 
+        "x" : 83972, 
+        "y" : 453041, 
+        "x_nav" : 83954, 
+        "y_nav" : 453036, 
+        "Organisati" : "Reinier de Graaf", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Diaconessenhuis Voorburg", 
+        "loc_straat" : "Fonteynenburghlaan", 
+        "Huisnr" : "5", 
+        "postcode" : "2275 CX", 
+        "woonplaats" : "Voorburg", 
+        "gemeente" : "Leidschendam-Voorburg", 
+        "regionr" : 15, 
+        "website" : "www.reinierdegraaf.nl", 
+        "telefoon" : "070-3401100", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 483, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.41108989150154, 52.1405558331415
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 483, 
+        "bagvboid" : 629010000031042, 
+        "x" : 88180, 
+        "y" : 461823, 
+        "x_nav" : 88212, 
+        "y_nav" : 461778, 
+        "Organisati" : "Stichting Bronovo-Nebo", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Wassenaar", 
+        "loc_straat" : "Rijksstraatweg", 
+        "Huisnr" : "324", 
+        "postcode" : "2242 AB", 
+        "woonplaats" : "Wassenaar", 
+        "gemeente" : "Wassenaar", 
+        "regionr" : 15, 
+        "website" : "www.bronovo.nl/", 
+        "telefoon" : " ", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 484, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.66126778009572, 52.1427741220109
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 484, 
+        "bagvboid" : 484010000036462, 
+        "x" : 105308, 
+        "y" : 461869, 
+        "x_nav" : 105246, 
+        "y_nav" : 461883, 
+        "Organisati" : "Alrijne", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Alphen a/d Rijn", 
+        "loc_straat" : "Meteoorlaan", 
+        "Huisnr" : "4", 
+        "postcode" : "2402 WC", 
+        "woonplaats" : "Alphen aan den Rijn", 
+        "gemeente" : "Alphen aan den Rijn", 
+        "regionr" : 16, 
+        "website" : "www.alrijne.nl", 
+        "telefoon" : "0172-467467", 
+        "code" : 40, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 485, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.4830955963575, 52.1737487254748
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 485, 
+        "bagvboid" : 546010000053742, 
+        "x" : 93155, 
+        "y" : 465452, 
+        "x_nav" : 93064, 
+        "y_nav" : 465403, 
+        "Organisati" : "Alrijne", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Leiden", 
+        "loc_straat" : "Houtlaan", 
+        "Huisnr" : "55", 
+        "postcode" : "2334 CK", 
+        "woonplaats" : "Leiden", 
+        "gemeente" : "Leiden", 
+        "regionr" : 16, 
+        "website" : "www.alrijne.nl", 
+        "telefoon" : "071-5178178", 
+        "code" : 309, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 486, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.5415559109331, 52.1569244011959
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 486, 
+        "bagvboid" : 547010000307711, 
+        "x" : 97132, 
+        "y" : 463532, 
+        "x_nav" : 97164, 
+        "y_nav" : 463635, 
+        "Organisati" : "Alrijne", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Leiderdorp", 
+        "loc_straat" : "Simon Smitweg", 
+        "Huisnr" : "1", 
+        "postcode" : "2353 GA", 
+        "woonplaats" : "Leiderdorp", 
+        "gemeente" : "Leiderdorp", 
+        "regionr" : 16, 
+        "website" : "www.alrijne.nl", 
+        "telefoon" : "071-5828282", 
+        "code" : 470, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 487, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.70569234255586, 52.0212657175021
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 487, 
+        "bagvboid" : 513010013085239, 
+        "x" : 108222, 
+        "y" : 448321, 
+        "x_nav" : 108104, 
+        "y_nav" : 448269, 
+        "Organisati" : "Groene Hart", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Bleuland", 
+        "loc_straat" : "Bleulandweg", 
+        "Huisnr" : "10", 
+        "postcode" : "2803 HH", 
+        "woonplaats" : "Gouda", 
+        "gemeente" : "Gouda", 
+        "regionr" : 16, 
+        "website" : "www.ghz.nl/", 
+        "telefoon" : "0182-505050", 
+        "code" : 300, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 488, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.61760232716694, 51.9671689047662
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 488, 
+        "bagvboid" : 1.89201000066053E+15, 
+        "x" : 102112, 
+        "y" : 442363, 
+        "x_nav" : 102096, 
+        "y_nav" : 442372, 
+        "Organisati" : "Groene Hart Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Zuidplas", 
+        "loc_straat" : "Doortocht", 
+        "Huisnr" : "40", 
+        "postcode" : "2914 KA", 
+        "woonplaats" : "Nieuwerkerk aan den IJssel", 
+        "gemeente" : "Zuidplas", 
+        "regionr" : 16, 
+        "website" : "www.ghz.nl/", 
+        "telefoon" : "0180 33 16 99", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 489, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.4778171206618, 52.1659062356108
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 489, 
+        "bagvboid" : 546010000053338, 
+        "x" : 92783, 
+        "y" : 464584, 
+        "x_nav" : 92767, 
+        "y_nav" : 464831, 
+        "Organisati" : "Leids Universitair Medisch Centrum", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : "Academisch Ziekenhuis Leiden", 
+        "loc_straat" : "Albinusdreef", 
+        "Huisnr" : "2", 
+        "postcode" : "2333 ZA", 
+        "woonplaats" : "Leiden", 
+        "gemeente" : "Leiden", 
+        "regionr" : 16, 
+        "website" : "www.lumc.nl/", 
+        "telefoon" : "071 526 91 11", 
+        "code" : 882, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 490, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.60307910501196, 51.8647642348714
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 490, 
+        "bagvboid" : 597010000250407, 
+        "x" : 100991, 
+        "y" : 430981, 
+        "x_nav" : 100986, 
+        "y_nav" : 430951, 
+        "Organisati" : "Albert Schweitzer", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Goed Ridderkerk", 
+        "loc_straat" : "Jan Luykenstraat", 
+        "Huisnr" : "8", 
+        "postcode" : "2985 BV", 
+        "woonplaats" : "Ridderkerk", 
+        "gemeente" : "Ridderkerk", 
+        "regionr" : 17, 
+        "website" : "www.asz.nl/", 
+        "telefoon" : "078 654 11 11", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 491, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.47045522313728, 51.9121821164883
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 491, 
+        "bagvboid" : 599010000120366, 
+        "x" : 91923, 
+        "y" : 436363, 
+        "x_nav" : 91865, 
+        "y_nav" : 436490, 
+        "Organisati" : "Erasmus Medisch Centrum", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : "Sophia", 
+        "loc_straat" : "Wytemaweg", 
+        "Huisnr" : "80", 
+        "postcode" : "3015 CN", 
+        "woonplaats" : "Rotterdam", 
+        "gemeente" : "Rotterdam", 
+        "regionr" : 17, 
+        "website" : "www.erasmusmc.nl/", 
+        "telefoon" : "010-7040704", 
+        "code" : 250, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 492, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.46818560723401, 51.9101599109443
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 492, 
+        "bagvboid" : 599010000212994, 
+        "x" : 91764, 
+        "y" : 436140, 
+        "x_nav" : 91759, 
+        "y_nav" : 436278, 
+        "Organisati" : "Erasmus Medisch Centrum", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "s-Gravendijkwal", 
+        "Huisnr" : "230", 
+        "postcode" : "3015 CE", 
+        "woonplaats" : "Rotterdam", 
+        "gemeente" : "Rotterdam", 
+        "regionr" : 17, 
+        "website" : "www.erasmusmc.nl/", 
+        "telefoon" : "010-7040704", 
+        "code" : 940, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 493, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.47413584712478, 51.9964076605125
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 493, 
+        "bagvboid" : 1.62101000000039E+15, 
+        "x" : 92294, 
+        "y" : 445730, 
+        "x_nav" : 92407, 
+        "y_nav" : 445681, 
+        "Organisati" : "Franciscus Gasthuis & Vlietland", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Berkel", 
+        "loc_straat" : "Boerhaavestraat", 
+        "Huisnr" : "19", 
+        "postcode" : "2652 EP", 
+        "woonplaats" : "Berkel", 
+        "gemeente" : "Lansingerland", 
+        "regionr" : 17, 
+        "website" : "www.franciscus.nl", 
+        "telefoon" : "010 461 7700", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 494, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.24281681471585, 51.9298173594287
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 494, 
+        "bagvboid" : 556010000002327, 
+        "x" : 76292, 
+        "y" : 438547, 
+        "x_nav" : 76251, 
+        "y_nav" : 438572, 
+        "Organisati" : "Franciscus Gasthuis & Vlietland", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Maassluis", 
+        "loc_straat" : "De Vloot", 
+        "Huisnr" : "206", 
+        "postcode" : "3144 PK", 
+        "woonplaats" : "Maassluis", 
+        "gemeente" : "Maassluis", 
+        "regionr" : 17, 
+        "website" : "www.franciscus.nl", 
+        "telefoon" : "010 592 18 22", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 495, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.46239072191003, 51.9417457262555
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 495, 
+        "bagvboid" : 599010000147014, 
+        "x" : 91410, 
+        "y" : 439659, 
+        "x_nav" : 91338, 
+        "y_nav" : 439760, 
+        "Organisati" : "Franciscus Gasthuis & Vlietland", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Kleiweg", 
+        "Huisnr" : "500", 
+        "postcode" : "3045 PM", 
+        "woonplaats" : "Rotterdam", 
+        "gemeente" : "Rotterdam", 
+        "regionr" : 17, 
+        "website" : "www.franciscus.nl", 
+        "telefoon" : "010-4616161", 
+        "code" : 613, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 496, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.38068935972504, 51.9226206809646
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 496, 
+        "bagvboid" : 606010000038502, 
+        "x" : 85763, 
+        "y" : 437606, 
+        "x_nav" : 85645, 
+        "y_nav" : 437657, 
+        "Organisati" : "Franciscus Gasthuis & Vlietland", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Schiedam", 
+        "loc_straat" : "Vlietlandplein", 
+        "Huisnr" : "2", 
+        "postcode" : "3118 JH", 
+        "woonplaats" : "Schiedam", 
+        "gemeente" : "Schiedam", 
+        "regionr" : 17, 
+        "website" : "www.franciscus.nl", 
+        "telefoon" : "010-8939393", 
+        "code" : 270, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 497, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.49805195473348, 51.9204658681279
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 497, 
+        "bagvboid" : 599010000192051, 
+        "x" : 93833, 
+        "y" : 437261, 
+        "x_nav" : 93857, 
+        "y_nav" : 437295, 
+        "Organisati" : "Havenziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Haringvliet", 
+        "Huisnr" : "2", 
+        "postcode" : "3011 TD", 
+        "woonplaats" : "Rotterdam", 
+        "gemeente" : "Rotterdam", 
+        "regionr" : 17, 
+        "website" : "www.havenziekenhuis.nl/", 
+        "telefoon" : "010-4043300", 
+        "code" : 260, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 498, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.56295161489294, 51.9391136042073
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 498, 
+        "bagvboid" : 502010000021175, 
+        "x" : 98321, 
+        "y" : 439283, 
+        "x_nav" : 98287, 
+        "y_nav" : 439079, 
+        "Organisati" : "IJsselland Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Prins Constantijnweg", 
+        "Huisnr" : "2", 
+        "postcode" : "2906 ZC", 
+        "woonplaats" : "Capelle aan den IJssel", 
+        "gemeente" : "Capelle aan den IJssel", 
+        "regionr" : 17, 
+        "website" : "www.ysl.nl/", 
+        "telefoon" : "010-2585000", 
+        "code" : 380, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 499, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.49966492041572, 51.8490981082891
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 499, 
+        "bagvboid" : 489010000247856, 
+        "x" : 93847, 
+        "y" : 429320, 
+        "x_nav" : 93827, 
+        "y_nav" : 429352, 
+        "Organisati" : "Ikazia Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Carnisselande", 
+        "loc_straat" : "Middeldijkerplein", 
+        "Huisnr" : "36", 
+        "postcode" : "2993 DL", 
+        "woonplaats" : "Barendrecht", 
+        "gemeente" : "Barendrecht", 
+        "regionr" : 17, 
+        "website" : "www.ikazia.nl/", 
+        "telefoon" : "0180-642222", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 500, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.49362004677616, 51.8860143763456
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 500, 
+        "bagvboid" : 599010000239640, 
+        "x" : 93481, 
+        "y" : 433432, 
+        "x_nav" : 93528, 
+        "y_nav" : 433469, 
+        "Organisati" : "Ikazia Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Montessoriweg", 
+        "Huisnr" : "1", 
+        "postcode" : "3083 AN", 
+        "woonplaats" : "Rotterdam", 
+        "gemeente" : "Rotterdam", 
+        "regionr" : 17, 
+        "website" : "www.ikazia.nl/", 
+        "telefoon" : "010-2975000", 
+        "code" : 352, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 501, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.53468913223384, 51.8796496634284
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 501, 
+        "bagvboid" : 599010400000620, 
+        "x" : 96300, 
+        "y" : 432690, 
+        "x_nav" : 96428, 
+        "y_nav" : 432760, 
+        "Organisati" : "Maasstad", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Maasstad", 
+        "loc_straat" : "Maasstadweg", 
+        "Huisnr" : "21", 
+        "postcode" : "3079 DZ", 
+        "woonplaats" : "Rotterdam", 
+        "gemeente" : "Rotterdam", 
+        "regionr" : 17, 
+        "website" : "www.maasstadziekenhuis.nl", 
+        "telefoon" : "010-2911911", 
+        "code" : 830, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 502, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.33739837018199, 51.8465823117271
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 502, 
+        "bagvboid" : 612010000009455, 
+        "x" : 82663, 
+        "y" : 429189, 
+        "x_nav" : 82634, 
+        "y_nav" : 429296, 
+        "Organisati" : "Spijkenisse Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Ruwaard van Puttenweg", 
+        "Huisnr" : "500", 
+        "postcode" : "3201 GZ", 
+        "woonplaats" : "Spijkenisse", 
+        "gemeente" : "Nissewaard", 
+        "regionr" : 17, 
+        "website" : "www.spijkenissemc.nl", 
+        "telefoon" : "0181-658888", 
+        "code" : 275, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 503, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.14882226261934, 51.8329053013316
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 503, 
+        "bagvboid" : 530010002103324, 
+        "x" : 69644, 
+        "y" : 427872, 
+        "x_nav" : 69633, 
+        "y_nav" : 427843, 
+        "Organisati" : "Stichting Van Weel-Bethesda", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Het Nieuwe Weergors", 
+        "loc_straat" : "Vliet", 
+        "Huisnr" : "4", 
+        "postcode" : "3224 HE", 
+        "woonplaats" : "Hellevoetsluis", 
+        "gemeente" : "Hellevoetsluis", 
+        "regionr" : 17, 
+        "website" : "www.vanweelbethesda.nl", 
+        "telefoon" : "0187 60 23 55", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 504, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.10237018728457, 51.750198307664
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 504, 
+        "bagvboid" : 504010001647871, 
+        "x" : 66280, 
+        "y" : 418727, 
+        "x_nav" : 66348, 
+        "y_nav" : 418638, 
+        "Organisati" : "Van Weel-Bethesda Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Stationsweg", 
+        "Huisnr" : "22", 
+        "postcode" : "3247 BW", 
+        "woonplaats" : "Dirksland", 
+        "gemeente" : "Goeree-Overflakkee", 
+        "regionr" : 17, 
+        "website" : "www.zhsdirksland.nl/", 
+        "telefoon" : "0187-607300", 
+        "code" : 140, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 505, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.65355933178378, 51.7819277210411
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 505, 
+        "bagvboid" : 505010000056440, 
+        "x" : 104375, 
+        "y" : 421729, 
+        "x_nav" : 104369, 
+        "y_nav" : 421876, 
+        "Organisati" : "Albert Schweitzer", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Amstelwijck", 
+        "loc_straat" : "Van der Steenhovenplein", 
+        "Huisnr" : "1", 
+        "postcode" : "3317 NM", 
+        "woonplaats" : "Dordrecht", 
+        "gemeente" : "Dordrecht", 
+        "regionr" : 18, 
+        "website" : "www.asz.nl/", 
+        "telefoon" : "078-6541111", 
+        "code" : 39, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 506, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.68298515813067, 51.7916900331706
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 506, 
+        "bagvboid" : 505010000052299, 
+        "x" : 106416, 
+        "y" : 422795, 
+        "x_nav" : 106405, 
+        "y_nav" : 422957, 
+        "Organisati" : "Albert Schweitzer", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Dordwijk", 
+        "loc_straat" : "Albert Schweitzerplaats", 
+        "Huisnr" : "25", 
+        "postcode" : "3318 AT", 
+        "woonplaats" : "Dordrecht", 
+        "gemeente" : "Dordrecht", 
+        "regionr" : 18, 
+        "website" : "www.asz.nl/", 
+        "telefoon" : "078-6541111", 
+        "code" : 483, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 507, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.76851382199019, 51.8228232453508
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 507, 
+        "bagvboid" : 610010000003658, 
+        "x" : 112346, 
+        "y" : 426205, 
+        "x_nav" : 112386, 
+        "y_nav" : 426106, 
+        "Organisati" : "Albert Schweitzer", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Sliedrecht", 
+        "loc_straat" : "Wilhelminastraat", 
+        "Huisnr" : "75", 
+        "postcode" : "3361 XV", 
+        "woonplaats" : "Sliedrecht", 
+        "gemeente" : "Sliedrecht", 
+        "regionr" : 18, 
+        "website" : "www.asz.nl/", 
+        "telefoon" : "078-6541111", 
+        "code" : 20, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 508, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.62970932232762, 51.8266026953332
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 508, 
+        "bagvboid" : 642010000020185, 
+        "x" : 102781, 
+        "y" : 426716, 
+        "x_nav" : 102914, 
+        "y_nav" : 426636, 
+        "Organisati" : "Albert Schweitzer", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Zwijndrecht", 
+        "loc_straat" : "Langeweg", 
+        "Huisnr" : "336", 
+        "postcode" : "3331 LZ", 
+        "woonplaats" : "Zwijndrecht", 
+        "gemeente" : "Zwijndrecht", 
+        "regionr" : 18, 
+        "website" : "www.asz.nl/", 
+        "telefoon" : "078-6541111", 
+        "code" : 170, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 509, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.10712672858593, 51.8910917052949
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 509, 
+        "bagvboid" : 545010000352822, 
+        "x" : 135720, 
+        "y" : 433656, 
+        "x_nav" : 135672, 
+        "y_nav" : 433767, 
+        "Organisati" : "Rivas zorggroep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Lingepolikliniek", 
+        "loc_straat" : "Lingesteynplantsoen", 
+        "Huisnr" : "3", 
+        "postcode" : "4141 GH", 
+        "woonplaats" : "Leerdam", 
+        "gemeente" : "Leerdam", 
+        "regionr" : 18, 
+        "website" : "www.rivas.nl/", 
+        "telefoon" : "0183 64 42 29", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 510, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.95695248906931, 51.8389993880533
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 510, 
+        "bagvboid" : 512010000017376, 
+        "x" : 125348, 
+        "y" : 427911, 
+        "x_nav" : 125400, 
+        "y_nav" : 428007, 
+        "Organisati" : "Rivas zorggroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Beatrixziekenhuis", 
+        "loc_straat" : "Banneweg", 
+        "Huisnr" : "57", 
+        "postcode" : "4204 AA", 
+        "woonplaats" : "Gorinchem", 
+        "gemeente" : "Gorinchem", 
+        "regionr" : 18, 
+        "website" : "www.rivas.nl/", 
+        "telefoon" : "0183-644444", 
+        "code" : 323, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 511, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          3.61150439601979, 51.5048067401412
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 511, 
+        "bagvboid" : 687010000007820, 
+        "x" : 31723, 
+        "y" : 392145, 
+        "x_nav" : 31724, 
+        "y_nav" : 392108, 
+        "Organisati" : "Admiraal De Ruyter ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Middelburg", 
+        "loc_straat" : "Kalverstraat", 
+        "Huisnr" : "1", 
+        "postcode" : "4331 LZ", 
+        "woonplaats" : "Middelburg", 
+        "gemeente" : "Middelburg", 
+        "regionr" : 19, 
+        "website" : "www.adrz.nl", 
+        "telefoon" : "0118-425000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 512, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          3.9071805666277, 51.4848532087867
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 512, 
+        "bagvboid" : 664010000016348, 
+        "x" : 52203, 
+        "y" : 389467, 
+        "x_nav" : 52118, 
+        "y_nav" : 389444, 
+        "Organisati" : "Admiraal De Ruyter ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Goes", 
+        "loc_straat" : "s-Gravenpolderseweg", 
+        "Huisnr" : "114", 
+        "postcode" : "4462 RA", 
+        "woonplaats" : "Goes", 
+        "gemeente" : "Goes", 
+        "regionr" : 19, 
+        "website" : "www.adrz.nl", 
+        "telefoon" : "0113-234000", 
+        "code" : 364, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 513, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          3.56559812360572, 51.4514237300509
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 513, 
+        "bagvboid" : 718010000010612, 
+        "x" : 28388, 
+        "y" : 386286, 
+        "x_nav" : 28318, 
+        "y_nav" : 386241, 
+        "Organisati" : "Admiraal De Ruyter ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Vlissingen", 
+        "loc_straat" : "Koudekerkseweg", 
+        "Huisnr" : "88", 
+        "postcode" : "4382 EE", 
+        "woonplaats" : "Vlissingen", 
+        "gemeente" : "Vlissingen", 
+        "regionr" : 19, 
+        "website" : "www.adrz.nl", 
+        "telefoon" : "0118-425000", 
+        "code" : 385, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 514, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          3.92877356149661, 51.6565343458348
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 514, 
+        "bagvboid" : 1.67601000048633E+15, 
+        "x" : 54085, 
+        "y" : 408534, 
+        "x_nav" : 54070, 
+        "y_nav" : 408571, 
+        "Organisati" : "Admiraal De Ruyter ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Zierikzee", 
+        "loc_straat" : "Koning Gustaafweg", 
+        "Huisnr" : "2", 
+        "postcode" : "4301 NP", 
+        "woonplaats" : "Zierikzee", 
+        "gemeente" : "Zierikzee", 
+        "regionr" : 19, 
+        "website" : "www.adrz.nl", 
+        "telefoon" : "0118-234000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 515, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.05069247413972, 51.287102333701
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 515, 
+        "bagvboid" : 677010000622444, 
+        "x" : 61767, 
+        "y" : 367277, 
+        "x_nav" : 61743, 
+        "y_nav" : 367281, 
+        "Organisati" : "ZorgSaam Zorggroep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Liduina", 
+        "loc_straat" : "Lyceumstraat", 
+        "Huisnr" : "20", 
+        "postcode" : "4561 HV", 
+        "woonplaats" : "Hulst", 
+        "gemeente" : "Hulst", 
+        "regionr" : 19, 
+        "website" : "www.zorgsaam.org/", 
+        "telefoon" : "0114-373000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 516, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          3.48168588606515, 51.3249848917567
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 516, 
+        "bagvboid" : 1.71401000076107E+15, 
+        "x" : 22189, 
+        "y" : 372372, 
+        "x_nav" : 22274, 
+        "y_nav" : 372464, 
+        "Organisati" : "ZorgSaam Zorggroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Antonius", 
+        "loc_straat" : "Pastoor van Genklaan", 
+        "Huisnr" : "6", 
+        "postcode" : "4501 AJ", 
+        "woonplaats" : "Oostburg", 
+        "gemeente" : "Oostburg", 
+        "regionr" : 19, 
+        "website" : "www.zorgsaam.org/", 
+        "telefoon" : "0117-459000", 
+        "code" : 100, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 517, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          3.86023222644603, 51.309033056034
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 517, 
+        "bagvboid" : 715010000034443, 
+        "x" : 48533, 
+        "y" : 369977, 
+        "x_nav" : 48519, 
+        "y_nav" : 369856, 
+        "Organisati" : "ZorgSaam Zorggroep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "De Honte", 
+        "loc_straat" : "Wielingenlaan", 
+        "Huisnr" : "2", 
+        "postcode" : "4535 PA", 
+        "woonplaats" : "Terneuzen", 
+        "gemeente" : "Terneuzen", 
+        "regionr" : 19, 
+        "website" : "www.zorgsaam.org/", 
+        "telefoon" : "0115-688000", 
+        "code" : 280, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 518, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.76270614495061, 51.5738680420593
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 518, 
+        "bagvboid" : 758010000037204, 
+        "x" : 111708, 
+        "y" : 398512, 
+        "x_nav" : 111646, 
+        "y_nav" : 398586, 
+        "Organisati" : "Amphia", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Langendijk", 
+        "loc_straat" : "Langendijk", 
+        "Huisnr" : "75", 
+        "postcode" : "4819 EV", 
+        "woonplaats" : "Breda", 
+        "gemeente" : "Breda", 
+        "regionr" : 20, 
+        "website" : "www.amphia.nl/", 
+        "telefoon" : "076-5955000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 519, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.79697598169344, 51.5820011446359
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 519, 
+        "bagvboid" : 758010000068431, 
+        "x" : 114091, 
+        "y" : 399397, 
+        "x_nav" : 114180, 
+        "y_nav" : 399348, 
+        "Organisati" : "Amphia", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Molengracht", 
+        "loc_straat" : "Molengracht", 
+        "Huisnr" : "21", 
+        "postcode" : "4818 CK", 
+        "woonplaats" : "Breda", 
+        "gemeente" : "Breda", 
+        "regionr" : 20, 
+        "website" : "www.amphia.nl/", 
+        "telefoon" : "076-5955000", 
+        "code" : 1368, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 520, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.87049990312828, 51.6479487154622
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 520, 
+        "bagvboid" : 826010000016345, 
+        "x" : 119239, 
+        "y" : 406695, 
+        "x_nav" : 119172, 
+        "y_nav" : 406727, 
+        "Organisati" : "Amphia", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Oosterhout", 
+        "loc_straat" : "Pasteurlaan", 
+        "Huisnr" : "9", 
+        "postcode" : "4901 DH", 
+        "woonplaats" : "Oosterhout", 
+        "gemeente" : "Oosterhout", 
+        "regionr" : 20, 
+        "website" : "www.amphia.nl/", 
+        "telefoon" : "076-5955000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 521, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.87049990312828, 51.6479487154622
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 521, 
+        "bagvboid" : 826010000016345, 
+        "x" : 119239, 
+        "y" : 406695, 
+        "x_nav" : 119172, 
+        "y_nav" : 406727, 
+        "Organisati" : "Amphia", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Etten-Leur", 
+        "loc_straat" : "Trivium", 
+        "Huisnr" : "76", 
+        "postcode" : "4873 LP", 
+        "woonplaats" : "Etten-Leur", 
+        "gemeente" : "Etten-Leur", 
+        "regionr" : 20, 
+        "website" : "www.amphia.nl/", 
+        "telefoon" : "076-5955000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 522, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.65032263091375, 51.5717665512489
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 522, 
+        "bagvboid" : 777010000168895, 
+        "x" : 103915, 
+        "y" : 398351, 
+        "x_nav" : 103913, 
+        "y_nav" : 398383, 
+        "Organisati" : "Bravis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Etten-Leur", 
+        "loc_straat" : "Schoonhout", 
+        "Huisnr" : "215", 
+        "postcode" : "4872 MC", 
+        "woonplaats" : "Etten-Leur", 
+        "gemeente" : "Etten-Leur", 
+        "regionr" : 20, 
+        "website" : "www.bravisziekenhuis.nl", 
+        "telefoon" : "076-5042000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 523, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.52411294168896, 51.5910024709387
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 523, 
+        "bagvboid" : 1.65501000052194E+15, 
+        "x" : 95191, 
+        "y" : 400587, 
+        "x_nav" : 95187, 
+        "y_nav" : 400548, 
+        "Organisati" : "Bravis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Oudenbosch", 
+        "loc_straat" : "West-Vaardeke", 
+        "Huisnr" : "11a", 
+        "postcode" : "4731 MA", 
+        "woonplaats" : "Oudenbosch", 
+        "gemeente" : "Halderberge", 
+        "regionr" : 20, 
+        "website" : "www.bravisziekenhuis.nl", 
+        "telefoon" : "0165-313055", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 524, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.31457039806938, 51.4865021796463
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 524, 
+        "bagvboid" : 748010000020394, 
+        "x" : 80500, 
+        "y" : 389155, 
+        "x_nav" : 80458, 
+        "y_nav" : 389276, 
+        "Organisati" : "Bravis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Boerhaaveplein", 
+        "Huisnr" : "1", 
+        "postcode" : "4624 VT", 
+        "woonplaats" : "Bergen op Zoom", 
+        "gemeente" : "Bergen op Zoom", 
+        "regionr" : 20, 
+        "website" : "www.bravisziekenhuis.nl", 
+        "telefoon" : "088 7068000", 
+        "code" : 367, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 525, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          4.43886411716829, 51.5282810327829
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 525, 
+        "bagvboid" : 1.67401000004444E+15, 
+        "x" : 89193, 
+        "y" : 393683, 
+        "x_nav" : 89197, 
+        "y_nav" : 393770, 
+        "Organisati" : "Bravis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Boerhaavelaan", 
+        "Huisnr" : "25", 
+        "postcode" : "4708 AE", 
+        "woonplaats" : "Roosendaal", 
+        "gemeente" : "Roosendaal", 
+        "regionr" : 20, 
+        "website" : "www.bravisziekenhuis.nl", 
+        "telefoon" : "088 7068000", 
+        "code" : 450, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 526, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.18096696919327, 51.5735376695331
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 526, 
+        "bagvboid" : 824010000007823, 
+        "x" : 140703, 
+        "y" : 398310, 
+        "x_nav" : 140718, 
+        "y_nav" : 398354, 
+        "Organisati" : "Elisabeth TweeSteden Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Oisterwijk", 
+        "loc_straat" : "Moergestelseweg", 
+        "Huisnr" : "32G", 
+        "postcode" : "5062 JW", 
+        "woonplaats" : "Oisterwijk", 
+        "gemeente" : "Oisterwijk", 
+        "regionr" : 20, 
+        "website" : "www.etz.nl", 
+        "telefoon" : "013 2210000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 527, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.10437648322031, 51.5400745926492
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 527, 
+        "bagvboid" : 855010000073529, 
+        "x" : 135379, 
+        "y" : 394605, 
+        "x_nav" : 135129, 
+        "y_nav" : 394610, 
+        "Organisati" : "Elisabeth TweeSteden Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Elisabeth", 
+        "loc_straat" : "Hilvarenbeekseweg", 
+        "Huisnr" : "60", 
+        "postcode" : "5022 GC", 
+        "woonplaats" : "Tilburg", 
+        "gemeente" : "Tilburg", 
+        "regionr" : 20, 
+        "website" : "www.etz.nl", 
+        "telefoon" : "013 2210000", 
+        "code" : 673, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 528, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.05984218488908, 51.5772433200742
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 528, 
+        "bagvboid" : 855100000405181, 
+        "x" : 132308, 
+        "y" : 398753, 
+        "x_nav" : 132547, 
+        "y_nav" : 398722, 
+        "Organisati" : "Elisabeth TweeSteden Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. TweeSteden", 
+        "loc_straat" : "Dr. Deelenlaan", 
+        "Huisnr" : "5", 
+        "postcode" : "5042 AD", 
+        "woonplaats" : "Tilburg", 
+        "gemeente" : "Tilburg", 
+        "regionr" : 20, 
+        "website" : "www.etz.nl", 
+        "telefoon" : "013 2210000", 
+        "code" : 500, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 529, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.05308404479673, 51.6859950878182
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 529, 
+        "bagvboid" : 867010000052672, 
+        "x" : 131895, 
+        "y" : 410854, 
+        "x_nav" : 131758, 
+        "y_nav" : 410793, 
+        "Organisati" : "Elisabeth TweeSteden Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Waalwijk", 
+        "loc_straat" : "Kasteellaan", 
+        "Huisnr" : "2", 
+        "postcode" : "5141 BM", 
+        "woonplaats" : "Waalwijk", 
+        "gemeente" : "Waalwijk", 
+        "regionr" : 20, 
+        "website" : "www.etz.nl", 
+        "telefoon" : "0416 682222", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 530, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.32140780307928, 51.5938711951947
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 530, 
+        "bagvboid" : 757010001468330, 
+        "x" : 150441, 
+        "y" : 400554, 
+        "x_nav" : 150548, 
+        "y_nav" : 400578, 
+        "Organisati" : "Jeroen Bosch", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Liduina", 
+        "loc_straat" : "Liduinahof", 
+        "Huisnr" : "35", 
+        "postcode" : "5281 AD", 
+        "woonplaats" : "Boxtel", 
+        "gemeente" : "Boxtel", 
+        "regionr" : 21, 
+        "website" : "www.jeroenboschziekenhuis.nl/", 
+        "telefoon" : "073 5536877", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 531, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.18356573607697, 51.6953730339191
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 531, 
+        "bagvboid" : 797010000054126, 
+        "x" : 140921, 
+        "y" : 411864, 
+        "x_nav" : 140940, 
+        "y_nav" : 411824, 
+        "Organisati" : "Jeroen Bosch", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Rosmalen", 
+        "loc_straat" : "De Hoef", 
+        "Huisnr" : "90", 
+        "postcode" : "5242 CN", 
+        "woonplaats" : "Rosmalen", 
+        "gemeente" : "s-Hertogenbosch", 
+        "regionr" : 21, 
+        "website" : "www.jeroenboschziekenhuis.nl/", 
+        "telefoon" : "073-5533500", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 532, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.18356573607697, 51.6953730339191
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 532, 
+        "bagvboid" : 797010000054126, 
+        "x" : 140921, 
+        "y" : 411864, 
+        "x_nav" : 140940, 
+        "y_nav" : 411824, 
+        "Organisati" : "Jeroen Bosch", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Drunen", 
+        "loc_straat" : "Tinie de Munnikstraat", 
+        "Huisnr" : "17", 
+        "postcode" : "5151 VW", 
+        "woonplaats" : "Drunen", 
+        "gemeente" : "Heusden", 
+        "regionr" : 21, 
+        "website" : "www.jeroenboschziekenhuis.nl/", 
+        "telefoon" : "073-5533500", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 533, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.27694031320157, 51.6849096721145
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 533, 
+        "bagvboid" : 796010000433890, 
+        "x" : 147375, 
+        "y" : 410686, 
+        "x_nav" : 147559, 
+        "y_nav" : 410734, 
+        "Organisati" : "Jeroen Bosch Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Willem-Alexander", 
+        "loc_straat" : "Henri Dunantstraat", 
+        "Huisnr" : "1", 
+        "postcode" : "5223 GZ", 
+        "woonplaats" : "s-Hertogenbosch", 
+        "gemeente" : "s-Hertogenbosch", 
+        "regionr" : 21, 
+        "website" : "www.jeroenboschziekenhuis.nl/", 
+        "telefoon" : "073-5532000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 534, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.94084934135638, 51.663453671638
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 534, 
+        "bagvboid" : 756010000013050, 
+        "x" : 193305, 
+        "y" : 408439, 
+        "x_nav" : 193440, 
+        "y_nav" : 408774, 
+        "Organisati" : "Pantein", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Maasziekenhuis", 
+        "loc_straat" : "Dokter Kopstraat", 
+        "Huisnr" : "1", 
+        "postcode" : "5835 DV", 
+        "woonplaats" : "Beugen", 
+        "gemeente" : "Boxmeer", 
+        "regionr" : 21, 
+        "website" : "www.maasziekenhuispantein.nl/", 
+        "telefoon" : "0485-845000", 
+        "code" : 214, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 535, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.52455116200694, 51.7576965144303
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 535, 
+        "bagvboid" : 828010001570200, 
+        "x" : 164483, 
+        "y" : 418787, 
+        "x_nav" : 164655, 
+        "y_nav" : 418798, 
+        "Organisati" : "Polikliniek Oss Bernhoven", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Oss", 
+        "loc_straat" : "Gezondheidslaan", 
+        "Huisnr" : "1a", 
+        "postcode" : "5342 JW", 
+        "woonplaats" : "Oss", 
+        "gemeente" : "Oss", 
+        "regionr" : 21, 
+        "website" : "www.bernhoven.nl/", 
+        "telefoon" : "0413-404040", 
+        "code" : 276, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 536, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.60638267484421, 51.6739247849289
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 536, 
+        "bagvboid" : 856010000397376, 
+        "x" : 170161, 
+        "y" : 409481, 
+        "x_nav" : 169976, 
+        "y_nav" : 409445, 
+        "Organisati" : "Ziekenhuis Bernhoven", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Uden", 
+        "loc_straat" : "Nistelrodeseweg", 
+        "Huisnr" : "10", 
+        "postcode" : "5406 PT", 
+        "woonplaats" : "Uden", 
+        "gemeente" : "Uden", 
+        "regionr" : 21, 
+        "website" : "www.bernhoven.nl/", 
+        "telefoon" : "0413-404040", 
+        "code" : 290, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 537, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.47144396104368, 51.4660767135496
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 537, 
+        "bagvboid" : 772010000738515, 
+        "x" : 160854, 
+        "y" : 386338, 
+        "x_nav" : 161002, 
+        "y_nav" : 386161, 
+        "Organisati" : "Catharina Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Michelangelolaan", 
+        "Huisnr" : "2", 
+        "postcode" : "5623 EJ", 
+        "woonplaats" : "Eindhoven", 
+        "gemeente" : "Eindhoven", 
+        "regionr" : 22, 
+        "website" : "www.catharina-ziekenhuis.nl/", 
+        "telefoon" : "040-2399111", 
+        "code" : 696, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 538, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.79062659645516, 51.4682767472597
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 538, 
+        "bagvboid" : 762010000013078, 
+        "x" : 183032, 
+        "y" : 386657, 
+        "x_nav" : 183078, 
+        "y_nav" : 386623, 
+        "Organisati" : "Elkerliek Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Deurne", 
+        "loc_straat" : "Dunantweg", 
+        "Huisnr" : "16", 
+        "postcode" : "5751 CB", 
+        "woonplaats" : "Deurne", 
+        "gemeente" : "Deurne", 
+        "regionr" : 22, 
+        "website" : "www.elkerliek.nl/", 
+        "telefoon" : "0493-328888", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 539, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.68534014774665, 51.5544173533861
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 539, 
+        "bagvboid" : 1.65201000000566E+15, 
+        "x" : 175677, 
+        "y" : 396205, 
+        "x_nav" : 175711, 
+        "y_nav" : 396212, 
+        "Organisati" : "Elkerliek Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Gemert", 
+        "loc_straat" : "Julianastraat", 
+        "Huisnr" : "2", 
+        "postcode" : "5421 DB", 
+        "woonplaats" : "Gemert", 
+        "gemeente" : "Gemert-Bakel", 
+        "regionr" : 22, 
+        "website" : "www.elkerliek.nl/", 
+        "telefoon" : "0492-595555", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 540, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.75336531045502, 51.4055053932712
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 540, 
+        "bagvboid" : 743010000006647, 
+        "x" : 180478, 
+        "y" : 379660, 
+        "x_nav" : 180547, 
+        "y_nav" : 379683, 
+        "Organisati" : "Elkerliek Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Asten", 
+        "loc_straat" : "Floralaan", 
+        "Huisnr" : "30", 
+        "postcode" : "5721 CV", 
+        "woonplaats" : "Asten", 
+        "gemeente" : "Asten", 
+        "regionr" : 22, 
+        "website" : "www.elkerliek.nl/", 
+        "telefoon" : "0492-595555", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 541, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.65040888858987, 51.4857649217511
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 541, 
+        "bagvboid" : 794010000097950, 
+        "x" : 173282, 
+        "y" : 388558, 
+        "x_nav" : 173223, 
+        "y_nav" : 388474, 
+        "Organisati" : "Elkerliek Ziekenhuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Vitaliek", 
+        "loc_straat" : "Julianalaan", 
+        "Huisnr" : "2", 
+        "postcode" : "5807 HR", 
+        "woonplaats" : "Helmond", 
+        "gemeente" : "Helmond", 
+        "regionr" : 22, 
+        "website" : "www.elkerliek.nl/", 
+        "telefoon" : "0492-595555", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 542, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.64257072103694, 51.4821149575324
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 542, 
+        "bagvboid" : 794010000129638, 
+        "x" : 172739, 
+        "y" : 388150, 
+        "x_nav" : 172776, 
+        "y_nav" : 388186, 
+        "Organisati" : "Elkerliek Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Wesselmanlaan", 
+        "Huisnr" : "25", 
+        "postcode" : "5707 HA", 
+        "woonplaats" : "Helmond", 
+        "gemeente" : "Helmond", 
+        "regionr" : 22, 
+        "website" : "www.elkerliek.nl/", 
+        "telefoon" : "0492-595555", 
+        "code" : 524, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 543, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.48733411682178, 51.4541271941
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 543, 
+        "bagvboid" : 772010000789135, 
+        "x" : 161960, 
+        "y" : 385010, 
+        "x_nav" : 162111, 
+        "y_nav" : 384918, 
+        "Organisati" : "Máxima Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Eindhoven", 
+        "loc_straat" : "Ds. Theodor Fliednerstraat", 
+        "Huisnr" : "1", 
+        "postcode" : "5631 BM", 
+        "woonplaats" : "Eindhoven", 
+        "gemeente" : "Eindhoven", 
+        "regionr" : 22, 
+        "website" : "www.mmc.nl/", 
+        "telefoon" : "040-8888000", 
+        "code" : 836, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 544, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.41782642573962, 51.4063734537882
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 544, 
+        "bagvboid" : 861010000386294, 
+        "x" : 157131, 
+        "y" : 379693, 
+        "x_nav" : 156990, 
+        "y_nav" : 379678, 
+        "Organisati" : "Máxima Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Veldhoven", 
+        "loc_straat" : "de Run", 
+        "Huisnr" : "4600", 
+        "postcode" : "5504 DB", 
+        "woonplaats" : "Veldhoven", 
+        "gemeente" : "Veldhoven", 
+        "regionr" : 22, 
+        "website" : "www.mmc.nl/", 
+        "telefoon" : "040-8888000", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 545, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.55757286134301, 51.4196369555296
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 545, 
+        "bagvboid" : 1.77101000000486E+15, 
+        "x" : 166851, 
+        "y" : 381182, 
+        "x_nav" : 166895, 
+        "y_nav" : 381098, 
+        "Organisati" : "St. Anna ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Geldrop", 
+        "loc_straat" : "Bogardeind", 
+        "Huisnr" : "2", 
+        "postcode" : "5664 EH", 
+        "woonplaats" : "Geldrop", 
+        "gemeente" : "Geldrop-Mierlo", 
+        "regionr" : 22, 
+        "website" : "www.st-anna.nl/", 
+        "telefoon" : "040-286 4040", 
+        "code" : 321, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 546, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.57180792688403, 51.2642804675076
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 546, 
+        "bagvboid" : 1.70601000001375E+15, 
+        "x" : 167885, 
+        "y" : 363901, 
+        "x_nav" : 167893, 
+        "y_nav" : 363948, 
+        "Organisati" : "St. Jans Gasthuis", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Budel", 
+        "loc_straat" : "Grensweg", 
+        "Huisnr" : "1", 
+        "postcode" : "6021 JW", 
+        "woonplaats" : "Budel", 
+        "gemeente" : "Cranendonck", 
+        "regionr" : 22, 
+        "website" : "www.sjgweert.nl", 
+        "telefoon" : "0495-572100", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 547, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.99942433515847, 51.1921173410072
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 547, 
+        "bagvboid" : 957010000115010, 
+        "x" : 197798, 
+        "y" : 356036, 
+        "x_nav" : 197680, 
+        "y_nav" : 356018, 
+        "Organisati" : "Laurentius Ziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Monseigneur Driessenstraat", 
+        "Huisnr" : "6", 
+        "postcode" : "6043 CV", 
+        "woonplaats" : "Roermond", 
+        "gemeente" : "Roermond", 
+        "regionr" : 23, 
+        "website" : "www.laurentiusziekenhuisroermond.nl", 
+        "telefoon" : "0475-382222", 
+        "code" : 385, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 548, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.71187831870882, 51.2548140155293
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 548, 
+        "bagvboid" : 988010000016809, 
+        "x" : 177666, 
+        "y" : 362882, 
+        "x_nav" : 177721, 
+        "y_nav" : 362780, 
+        "Organisati" : "St. Jans Gasthuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Vogelsbleek", 
+        "Huisnr" : "5", 
+        "postcode" : "6001 BE", 
+        "woonplaats" : "Weert", 
+        "gemeente" : "Weert", 
+        "regionr" : 23, 
+        "website" : "www.stjansgasthuis.nl/", 
+        "telefoon" : "0495-572100", 
+        "code" : 297, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 549, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.04655071432726, 51.4500228829868
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 549, 
+        "bagvboid" : 1.50701000003327E+15, 
+        "x" : 200833, 
+        "y" : 384756, 
+        "x_nav" : 200845, 
+        "y_nav" : 384784, 
+        "Organisati" : "VieCuri Medisch Centrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Horst", 
+        "loc_straat" : "Westsingel", 
+        "Huisnr" : "100", 
+        "postcode" : "5961 DH", 
+        "woonplaats" : "Horst", 
+        "gemeente" : "Horst aan de Maas", 
+        "regionr" : 23, 
+        "website" : "www.viecuri.nl/", 
+        "telefoon" : "0900-8186", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 550, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.968830786125, 51.3278728276056
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 550, 
+        "bagvboid" : 1.89401000031199E+15, 
+        "x" : 195539, 
+        "y" : 371121, 
+        "x_nav" : 195483, 
+        "y_nav" : 371114, 
+        "Organisati" : "VieCuri Medisch Centrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Peel en Maas", 
+        "loc_straat" : "John F. Kennedylaan", 
+        "Huisnr" : "231", 
+        "postcode" : "5981 WZ", 
+        "woonplaats" : "Panningen", 
+        "gemeente" : "Peel en Maas", 
+        "regionr" : 23, 
+        "website" : "www.viecuri.nl/", 
+        "telefoon" : "077-3066466", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 551, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.08129970420569, 51.2832645823901
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 551, 
+        "bagvboid" : 889010000274560, 
+        "x" : 203425, 
+        "y" : 366227, 
+        "x_nav" : 203394, 
+        "y_nav" : 366236, 
+        "Organisati" : "VieCuri Medisch Centrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Reuver", 
+        "loc_straat" : "Broeklaan", 
+        "Huisnr" : "4", 
+        "postcode" : "5853 NB", 
+        "woonplaats" : "Reuver", 
+        "gemeente" : "Beesel", 
+        "regionr" : 23, 
+        "website" : "www.viecuri.nl/", 
+        "telefoon" : "077-3205341", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 552, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.15438866471827, 51.3576484729845
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 552, 
+        "bagvboid" : 983010000036151, 
+        "x" : 208437, 
+        "y" : 374553, 
+        "x_nav" : 208449, 
+        "y_nav" : 374352, 
+        "Organisati" : "VieCuri Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Venlo", 
+        "loc_straat" : "Tegelseweg", 
+        "Huisnr" : "210", 
+        "postcode" : "5912 BL", 
+        "woonplaats" : "Venlo", 
+        "gemeente" : "Venlo", 
+        "regionr" : 23, 
+        "website" : "www.viecuri.nl/", 
+        "telefoon" : "077-3205555", 
+        "code" : 569, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 553, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.95913522545787, 51.527455723122
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 553, 
+        "bagvboid" : 984010000307468, 
+        "x" : 194689, 
+        "y" : 393319, 
+        "x_nav" : 194809, 
+        "y_nav" : 393236, 
+        "Organisati" : "VieCuri Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Venray", 
+        "loc_straat" : "Merseloseweg", 
+        "Huisnr" : "130", 
+        "postcode" : "5801 CE", 
+        "woonplaats" : "Venray", 
+        "gemeente" : "Venray", 
+        "regionr" : 23, 
+        "website" : "www.viecuri.nl/", 
+        "telefoon" : "0478-522222", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 554, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.71435564411554, 50.8351813127368
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 554, 
+        "bagvboid" : 935010000071728, 
+        "x" : 178048, 
+        "y" : 316199, 
+        "x_nav" : 177951, 
+        "y_nav" : 315938, 
+        "Organisati" : "Academisch Ziekenhuis Maastricht", 
+        "loc_type" : "Academisch ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "P. Debyelaan", 
+        "Huisnr" : "25", 
+        "postcode" : "6229 HX", 
+        "woonplaats" : "Maastricht", 
+        "gemeente" : "Maastricht", 
+        "regionr" : 24, 
+        "website" : "www.mumc.nl", 
+        "telefoon" : "043-3876543", 
+        "code" : 715, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 555, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.87359016289597, 51.1052321082271
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 555, 
+        "bagvboid" : 1.71101000001976E+15, 
+        "x" : 189066, 
+        "y" : 346304, 
+        "x_nav" : 189039, 
+        "y_nav" : 346252, 
+        "Organisati" : "Zuyderland Medisch Centrum", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Echt", 
+        "loc_straat" : "De Egthe", 
+        "Huisnr" : "1", 
+        "postcode" : "6101 EX", 
+        "woonplaats" : "Echt", 
+        "gemeente" : "Echt-Susteren", 
+        "regionr" : 24, 
+        "website" : "www.zuyderland.nl", 
+        "telefoon" : "047-5417888", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 556, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.98147777024928, 50.9516564747135
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 556, 
+        "bagvboid" : 899010000280609, 
+        "x" : 196761, 
+        "y" : 329275, 
+        "x_nav" : 196650, 
+        "y_nav" : 329290, 
+        "Organisati" : "Zuyderland Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Brunssum", 
+        "loc_straat" : "Prins Hendriklaan", 
+        "Huisnr" : "376", 
+        "postcode" : "6443 AE", 
+        "woonplaats" : "Brunssum", 
+        "gemeente" : "Brunssum", 
+        "regionr" : 24, 
+        "website" : "www.zuyderland.nl", 
+        "telefoon" : "045-5279999", 
+        "code" : 208, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 557, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.97758819574023, 50.8688512411253
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 557, 
+        "bagvboid" : 917010000009941, 
+        "x" : 196562, 
+        "y" : 320061, 
+        "x_nav" : 196699, 
+        "y_nav" : 320057, 
+        "Organisati" : "Zuyderland Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Heerlen", 
+        "loc_straat" : "Henri Dunantstraat", 
+        "Huisnr" : "5", 
+        "postcode" : "6419 PC", 
+        "woonplaats" : "Heerlen", 
+        "gemeente" : "Heerlen", 
+        "regionr" : 24, 
+        "website" : "www.zuyderland.nl", 
+        "telefoon" : "045-5766666", 
+        "code" : 710, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 558, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          6.06017053232061, 50.8663688049528
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 558, 
+        "bagvboid" : 928010000033353, 
+        "x" : 202378, 
+        "y" : 319835, 
+        "x_nav" : 202291, 
+        "y_nav" : 319947, 
+        "Organisati" : "Zuyderland Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Kerkrade", 
+        "loc_straat" : "Wijngracht", 
+        "Huisnr" : "45", 
+        "postcode" : "6461 AL", 
+        "woonplaats" : "Kerkrade", 
+        "gemeente" : "Kerkrade", 
+        "regionr" : 24, 
+        "website" : "www.zuyderland.nl", 
+        "telefoon" : "045-5450911", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 559, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.84310309662283, 50.9838264049137
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 559, 
+        "bagvboid" : 1.88301000000977E+15, 
+        "x" : 187015, 
+        "y" : 332784, 
+        "x_nav" : 186765, 
+        "y_nav" : 332958, 
+        "Organisati" : "Zuyderland Medisch Centrum", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Sittard-Geleen", 
+        "loc_straat" : "Dr. H. van der Hoffplein", 
+        "Huisnr" : "1", 
+        "postcode" : "6162 BG", 
+        "woonplaats" : "Geleen", 
+        "gemeente" : "Sittard-Geleen", 
+        "regionr" : 24, 
+        "website" : "www.zuyderland.nl", 
+        "telefoon" : "088-4597777", 
+        "code" : 483, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 560, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.22329603356815, 52.3693002164028
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 560, 
+        "bagvboid" : 34010000008366, 
+        "x" : 143837, 
+        "y" : 486837, 
+        "x_nav" : 143908, 
+        "y_nav" : 486947, 
+        "Organisati" : "Flevoziekenhuis", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : " ", 
+        "loc_straat" : "Hospitaalweg", 
+        "Huisnr" : "1", 
+        "postcode" : "1315 RA", 
+        "woonplaats" : "Almere", 
+        "gemeente" : "Almere", 
+        "regionr" : 25, 
+        "website" : "www.flevoziekenhuis.nl/", 
+        "telefoon" : "036-8688888", 
+        "code" : 300, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 561, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.70280132243259, 52.537894157163
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 561, 
+        "bagvboid" : 303010000628116, 
+        "x" : 176412, 
+        "y" : 505630, 
+        "x_nav" : 176650, 
+        "y_nav" : 505688, 
+        "Organisati" : "MC Groep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Dronten", 
+        "loc_straat" : "Het Zwarte Water", 
+        "Huisnr" : "77", 
+        "postcode" : "8253 PD", 
+        "woonplaats" : "Dronten", 
+        "gemeente" : "Dronten", 
+        "regionr" : 25, 
+        "website" : "www.polikliniekdronten.nl", 
+        "telefoon" : "0341-463890", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 562, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.62870552122873, 52.663923647686
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 562, 
+        "bagvboid" : 184010000005285, 
+        "x" : 171338, 
+        "y" : 519634, 
+        "x_nav" : 171294, 
+        "y_nav" : 519625, 
+        "Organisati" : "MC Groep", 
+        "loc_type" : "Buitenpolikliniek", 
+        "loc_naam" : "Loc. Urk", 
+        "loc_straat" : "Vlechttuinen", 
+        "Huisnr" : "1", 
+        "postcode" : "8322 BA", 
+        "woonplaats" : "Urk", 
+        "gemeente" : "Urk", 
+        "regionr" : 25, 
+        "website" : "www.mcgroep.com", 
+        "telefoon" : "0320-271911", 
+        "code" : 0, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 563, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.74383638415136, 52.707418626171
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 563, 
+        "bagvboid" : 171010000020581, 
+        "x" : 179103, 
+        "y" : 524506, 
+        "x_nav" : 179101, 
+        "y_nav" : 524610, 
+        "Organisati" : "MC Groep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Emmeloord", 
+        "loc_straat" : "Urkerweg", 
+        "Huisnr" : "1", 
+        "postcode" : "8303 BX", 
+        "woonplaats" : "Emmeloord", 
+        "gemeente" : "Emmeloord", 
+        "regionr" : 25, 
+        "website" : "www.mcgroep.com", 
+        "telefoon" : "0320-271911", 
+        "code" : 161, 
+        "bijzonderh" : "Imergis"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 564, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          5.47698659210458, 52.5042811909693
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 564, 
+        "bagvboid" : 995100000740386, 
+        "x" : 161096, 
+        "y" : 501847, 
+        "x_nav" : 161215, 
+        "y_nav" : 501937, 
+        "Organisati" : "MC Groep", 
+        "loc_type" : "Ziekenhuis", 
+        "loc_naam" : "Loc. Lelystad", 
+        "loc_straat" : "Ziekenhuisweg", 
+        "Huisnr" : "100", 
+        "postcode" : "8233 AA", 
+        "woonplaats" : "Lelystad", 
+        "gemeente" : "Lelystad", 
+        "regionr" : 25, 
+        "website" : "www.mcgroep.com", 
+        "telefoon" : "0320-271911", 
+        "code" : 252, 
+        "bijzonderh" : "Imergis"
+      }
+    }
+  ]
+}
